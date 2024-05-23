@@ -1,0 +1,101 @@
+[
+  {
+    "address": "0xbcb91e0B4Ad56b0d41e0C168E3090361c0039abC",
+    "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/aave.png",
+    "name": "ERC4626-Wrapped Aave v2 DAI",
+    "protocol": "Aave v2",
+    "symbol": "wa2DAI"
+  },
+  {
+    "address": "0xc21F107933612eCF5677894d45fc060767479A9b",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/aave.png",
+    "name": "ERC4626-Wrapped Aave v2 WETH",
+    "protocol": "Aave v2",
+    "symbol": "wa2WETH"
+  },
+  {
+    "address": "0x6D088fe2500Da41D7fA7ab39c76a506D7c91f53b",
+    "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/compound.svg",
+    "name": "ERC4626-Wrapped Compound DAI",
+    "protocol": "Compound",
+    "symbol": "wcDAI"
+  },
+  {
+    "address": "0xF9A98A9452485ed55cd3Ce5260C2b71c9807b11a",
+    "asset": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/lido.svg",
+    "name": "ERC4626-Wrapped Lido stETH",
+    "protocol": "Lido",
+    "symbol": "wlstETH"
+  },
+  {
+    "address": "0x83F20F44975D03b1b09e64809B757c47f942BEeA",
+    "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/maker.png",
+    "name": "Savings Dai",
+    "protocol": "Maker",
+    "symbol": "sDAI"
+  },
+  {
+    "address": "0xda00000035fef4082F78dEF6A8903bee419FbF8E",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 6,
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "Trade USDC v3",
+    "protocol": "Gearbox",
+    "symbol": "dUSDCV3"
+  },
+  {
+    "address": "0xda00010eDA646913F273E10E7A5d1F659242757d",
+    "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "decimals": 8,
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "Trade WBTC v3",
+    "protocol": "Gearbox",
+    "symbol": "dWBTCV3"
+  },
+  {
+    "address": "0xda0002859B2d05F66a753d8241fCDE8623f26F4f",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "Trade WETH v3",
+    "protocol": "Gearbox",
+    "symbol": "dWETHV3"
+  },
+  {
+    "address": "0x4d56c9cBa373AD39dF69Eb18F076b7348000AE09",
+    "asset": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "GHO v3",
+    "protocol": "Gearbox",
+    "symbol": "dGHOV3"
+  },
+  {
+    "address": "0xe7146F53dBcae9D6Fa3555FE502648deb0B2F823",
+    "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "DAI v3",
+    "protocol": "Gearbox",
+    "symbol": "dDAIV3"
+  },
+  {
+    "address": "0x05A811275fE9b4DE503B3311F51edF6A856D936e",
+    "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "decimals": 6,
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "USDT v3",
+    "protocol": "Gearbox",
+    "symbol": "dUSDTV3"
+  }
+]

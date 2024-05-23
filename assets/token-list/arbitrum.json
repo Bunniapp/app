@@ -1,0 +1,147 @@
+[
+  {
+    "name": "Ether",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(98, 126, 234)"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(241, 244, 247)"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x6B175474E89094C44Da98b954EedeAC495271d0F.png",
+    "website": "https://makerdao.com",
+    "twitter": "https://twitter.com/MakerDAO",
+    "color": "rgb(245, 172, 55)"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg",
+    "website": "https://tether.to",
+    "twitter": "https://twitter.com/Tether_to",
+    "color": "rgb(39, 161, 122)"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+    "website": "https://www.circle.com",
+    "twitter": "https://twitter.com/circle",
+    "color": "rgb(39, 116, 202)"
+  },
+  {
+    "name": "Bridged USDC",
+    "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+    "website": "https://www.circle.com",
+    "twitter": "https://twitter.com/circle",
+    "color": "rgb(39, 116, 202)"
+  },
+  {
+    "name": "Frax",
+    "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x853d955aCEf822Db058eb8505911ED77F175b99e.png",
+    "website": "https://frax.finance",
+    "twitter": "https://twitter.com/fraxfinance"
+  },
+  {
+    "name": "LUSD Stablecoin",
+    "address": "0x93b346b6BC2548dA6A1E7d98E9a421B42541425b",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0.png",
+    "website": "https://www.liquity.org",
+    "twitter": "https://twitter.com/LiquityProtocol"
+  },
+  {
+    "address": "0x0fBcbaEA96Ce0cF7Ee00A8c19c3ab6f5Dc8E1921",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0.png",
+    "website": "https://lido.fi",
+    "twitter": "https://twitter.com/LidoFinance"
+  },
+  {
+    "address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xae78736Cd615f374D3085123A210448E74Fc6393.png",
+    "website": "https://rocketpool.net",
+    "twitter": "https://twitter.com/Rocket_Pool"
+  },
+  {
+    "address": "0xbc011A12Da28e8F0f528d9eE5E7039E22F91cf18",
+    "name": "swETH",
+    "symbol": "swETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xf951E335afb289353dc249e82926178EaC7DEd78.png",
+    "website": "https://www.swellnetwork.io",
+    "twitter": "https://twitter.com/swellnetworkio"
+  },
+  {
+    "address": "0x1DEBd73E752bEaF79865Fd6446b0c970EaE7732f",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xBe9895146f7AF43049ca1c1AE358B0541Ea49704.png",
+    "website": "https://www.coinbase.com/cbeth",
+    "twitter": "https://twitter.com/coinbase"
+  },
+  {
+    "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
+    "name": "Gravita Debt Token",
+    "symbol": "GRAI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x15f74458aE0bFdAA1a96CA1aa779D715Cc1Eefe4.webp",
+    "website": "https://www.gravitaprotocol.com",
+    "twitter": "https://twitter.com/gravitaprotocol"
+  },
+  {
+    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/arbitrum/0x912CE59144191C1204E64559FE8253a0e49E6548.svg",
+    "website": "https://arbitrum.io",
+    "twitter": "https://twitter.com/arbitrum"
+  },
+  {
+    "address": "0x0ffB33812FA5cd8bCE181Db3FD76E11935105B12",
+    "name": "LIT Call Option Token",
+    "symbol": "oLIT",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x627fee87d0D9D2c55098A06ac805Db8F98B158Aa.png"
+  },
+  {
+    "address": "0x24F21b1864d4747a5c99045c96dA11DBFDa378f7",
+    "name": "xoLIT",
+    "symbol": "xoLIT",
+    "decimals": 18
+  }
+]

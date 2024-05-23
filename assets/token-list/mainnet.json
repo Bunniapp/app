@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Ether",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(98, 126, 234)"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(241, 244, 247)"
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "assets/img/tokens/mainnet/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png",
+    "website": "https://wbtc.network",
+    "twitter": "https://twitter.com/WrappedBTC",
+    "color": "rgb(240, 145, 65)"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x6B175474E89094C44Da98b954EedeAC495271d0F.png",
+    "website": "https://makerdao.com",
+    "twitter": "https://twitter.com/MakerDAO",
+    "color": "rgb(245, 172, 55)"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg",
+    "website": "https://tether.to",
+    "twitter": "https://twitter.com/Tether_to",
+    "color": "rgb(39, 161, 122)"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+    "website": "https://www.circle.com",
+    "twitter": "https://twitter.com/circle",
+    "color": "rgb(39, 116, 202)"
+  },
+  {
+    "name": "Frax",
+    "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x853d955aCEf822Db058eb8505911ED77F175b99e.png",
+    "website": "https://frax.finance",
+    "twitter": "https://twitter.com/fraxfinance"
+  },
+  {
+    "name": "LUSD Stablecoin",
+    "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0.png",
+    "website": "https://www.liquity.org",
+    "twitter": "https://twitter.com/LiquityProtocol"
+  },
+  {
+    "name": "Liquid staked Ether 2.0",
+    "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "symbol": "stETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84.png",
+    "website": "https://lido.fi",
+    "twitter": "https://twitter.com/LidoFinance"
+  },
+  {
+    "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0.png",
+    "website": "https://lido.fi",
+    "twitter": "https://twitter.com/LidoFinance"
+  },
+  {
+    "address": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xae78736Cd615f374D3085123A210448E74Fc6393.png",
+    "website": "https://rocketpool.net",
+    "twitter": "https://twitter.com/Rocket_Pool"
+  },
+  {
+    "address": "0xf951E335afb289353dc249e82926178EaC7DEd78",
+    "name": "swETH",
+    "symbol": "swETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xf951E335afb289353dc249e82926178EaC7DEd78.png",
+    "website": "https://www.swellnetwork.io",
+    "twitter": "https://twitter.com/swellnetworkio"
+  },
+  {
+    "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xBe9895146f7AF43049ca1c1AE358B0541Ea49704.png",
+    "website": "https://www.coinbase.com/cbeth",
+    "twitter": "https://twitter.com/coinbase"
+  },
+  {
+    "address": "0x15f74458aE0bFdAA1a96CA1aa779D715Cc1Eefe4",
+    "name": "Gravita Debt Token",
+    "symbol": "GRAI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x15f74458aE0bFdAA1a96CA1aa779D715Cc1Eefe4.webp",
+    "website": "https://www.gravitaprotocol.com",
+    "twitter": "https://twitter.com/gravitaprotocol"
+  },
+  {
+    "address": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
+    "name": "Gho Token",
+    "symbol": "GHO",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f.svg",
+    "website": "https://aave.com",
+    "twitter": "https://twitter.com/aave"
+  },
+  {
+    "address": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
+    "name": "Dola USD Stablecoin",
+    "symbol": "DOLA",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x865377367054516e17014CcdED1e7d814EDC9ce4.webp",
+    "website": "https://www.inverse.finance",
+    "twitter": "https://twitter.com/InverseFinance"
+  },
+  {
+    "address": "0x4Fabb145d64652a948d72533023f6E7A623C7C53",
+    "name": "BUSD",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x4Fabb145d64652a948d72533023f6E7A623C7C53.png"
+  },
+  {
+    "address": "0x0000000000085d4780B73119b644AE5ecd22b376",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x0000000000085d4780B73119b644AE5ecd22b376.svg",
+    "website": "https://tusd.io",
+    "twitter": "https://twitter.com/tusdio"
+  },
+  {
+    "address": "0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409",
+    "name": "First Digital USD",
+    "symbol": "FDUSD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xc5f0f7b66764F6ec8C8Dff7BA683102295E16409.png",
+    "website": "https://firstdigitallabs.com/",
+    "twitter": "https://twitter.com/FDLabsHQ"
+  },
+  {
+    "address": "0x8E870D67F660D95d5be530380D0eC0bd388289E1",
+    "name": "Pax Dollar",
+    "symbol": "USDP",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x8E870D67F660D95d5be530380D0eC0bd388289E1.png",
+    "website": "https://paxos.com/usdp",
+    "twitter": "https://twitter.com/Paxos"
+  },
+  {
+    "address": "0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28",
+    "name": "Prisma mkUSD",
+    "symbol": "mkUSD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x4591DBfF62656E7859Afe5e45f6f47D3669fBB28.svg",
+    "website": "https://prismafinance.com",
+    "twitter": "https://twitter.com/PrismaFi"
+  },
+  {
+    "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+    "name": "Gemini Dollar",
+    "symbol": "GUSD",
+    "decimals": 2,
+    "logoURI": "assets/img/tokens/mainnet/0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd.png",
+    "website": "https://www.gemini.com/dollar",
+    "twitter": "https://twitter.com/gemini"
+  },
+  {
+    "address": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0x6c3ea9036406852006290770BEdFcAbA0e23A0e8.png",
+    "website": "https://www.paypal.com/digital-wallet/manage-money/crypto/pyusd",
+    "twitter": "https://twitter.com/PayPal"
+  },
+  {
+    "address": "0x3472A5A71965499acd81997a54BBA8D852C6E53d",
+    "name": "Badger",
+    "symbol": "BADGER",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x3472A5A71965499acd81997a54BBA8D852C6E53d.png",
+    "website": "https://badger.com",
+    "twitter": "https://twitter.com/badgerdao"
+  },
+  {
+    "address": "0x5E8422345238F34275888049021821E8E08CAa1f",
+    "name": "Frax Ether",
+    "symbol": "frxETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x5E8422345238F34275888049021821E8E08CAa1f.png",
+    "website": "https://frax.finance",
+    "twitter": "https://twitter.com/fraxfinance"
+  },
+  {
+    "address": "0x9232a548DD9E81BaC65500b5e0d918F8Ba93675C",
+    "name": "Balancer 20 WETH 80 LIT",
+    "symbol": "BAL-20WETH-80LIT",
+    "decimals": 18
+  },
+  {
+    "address": "0xfd0205066521550D7d7AB19DA8F72bb004b4C341",
+    "name": "Liquidity Incentive Token",
+    "symbol": "LIT",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xfd0205066521550D7d7AB19DA8F72bb004b4C341.png"
+  },
+  {
+    "address": "0x627fee87d0D9D2c55098A06ac805Db8F98B158Aa",
+    "name": "LIT Call Option Token",
+    "symbol": "oLIT",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x627fee87d0D9D2c55098A06ac805Db8F98B158Aa.png"
+  },
+  {
+    "address": "0x24F21b1864d4747a5c99045c96dA11DBFDa378f7",
+    "name": "xoLIT",
+    "symbol": "xoLIT",
+    "decimals": 18
+  },
+  {
+    "address": "0xf17d23136B4FeAd139f54fB766c8795faae09660",
+    "name": "Timeless Voting Escrow",
+    "symbol": "veLIT",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xf17d23136B4FeAd139f54fB766c8795faae09660.png"
+  },
+  {
+    "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0.png",
+    "website": "https://frax.finance",
+    "twitter": "https://twitter.com/fraxfinance"
+  },
+  {
+    "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
+    "name": "Alchemix",
+    "symbol": "ALCX",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF.svg",
+    "website": "https://alchemix.fi",
+    "twitter": "https://twitter.com/AlchemixFi"
+  },
+  {
+    "address": "0xc55126051B22eBb829D00368f4B12Bde432de5Da",
+    "name": "BTRFLY",
+    "symbol": "BTRFLY",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xc55126051B22eBb829D00368f4B12Bde432de5Da.png",
+    "website": "https://redacted.finance",
+    "twitter": "https://twitter.com/redactedcartel"
+  },
+  {
+    "address": "0xD82fd4D6D62f89A1E50b1db69AD19932314aa408",
+    "name": "Liquis",
+    "symbol": "LIQ",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xD82fd4D6D62f89A1E50b1db69AD19932314aa408.webp",
+    "website": "https://www.liquis.app",
+    "twitter": "https://twitter.com/liquisfi"
+  },
+  {
+    "address": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68",
+    "name": "Inverse DAO",
+    "symbol": "INV",
+    "decimals": 18,
+    "website": "https://www.inverse.finance",
+    "twitter": "https://twitter.com/InverseFinance"
+  },
+  {
+    "address": "0xAB846Fb6C81370327e784Ae7CbB6d6a6af6Ff4BF",
+    "name": "Paladin Token",
+    "symbol": "PAL",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xAB846Fb6C81370327e784Ae7CbB6d6a6af6Ff4BF.png",
+    "website": "https://paladin.vote",
+    "twitter": "https://twitter.com/Paladin_vote"
+  },
+  {
+    "name": "Uniswap",
+    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984.png",
+    "website": "https://uniswap.org",
+    "twitter": "https://twitter.com/Uniswap"
+  }
+]

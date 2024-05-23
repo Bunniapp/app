@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Sepolia Ether",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(98, 126, 234)"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0xC558DBdd856501FCd9aaF1E62eae57A9F0629a3c",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(241, 244, 247)"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0xFF34B3d4Aee8ddCd6F9AFFFB6Fe49bD371b8a357",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x6B175474E89094C44Da98b954EedeAC495271d0F.png",
+    "website": "https://makerdao.com",
+    "twitter": "https://twitter.com/MakerDAO",
+    "color": "rgb(245, 172, 55)"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg",
+    "website": "https://tether.to",
+    "twitter": "https://twitter.com/Tether_to",
+    "color": "rgb(39, 161, 122)"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+    "website": "https://www.circle.com",
+    "twitter": "https://twitter.com/circle",
+    "color": "rgb(39, 116, 202)"
+  },
+  {
+    "name": "Uniswap",
+    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984.png",
+    "website": "https://uniswap.org",
+    "twitter": "https://twitter.com/uniswap",
+    "color": "rgb(254, 0, 122)"
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0x29f2D40B0605204364af54EC677bD022dA425d03",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "assets/img/tokens/mainnet/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png",
+    "website": "https://wbtc.network",
+    "twitter": "https://twitter.com/WrappedBTC",
+    "color": "rgb(240, 145, 65)"
+  },
+  {
+    "name": "Chainlink Token",
+    "address": "0xf8Fb3713D459D7C1018BD0A49D19b4C44290EBE5",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x514910771AF9Ca656af840dff83E8264EcF986CA.png",
+    "website": "https://chain.link",
+    "twitter": "https://twitter.com/chainlink",
+    "color": "rgb(42, 91, 219)"
+  },
+  {
+    "name": "Aave Token",
+    "address": "0x88541670E55cC00bEEFD87eB59EDd1b7C511AC9a",
+    "symbol": "AAVE",
+    "logoURI": "assets/img/tokens/mainnet/0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9.svg",
+    "decimals": 18,
+    "website": "https://aave.com",
+    "twitter": "https://twitter.com/aave"
+  },
+  {
+    "name": "Stasis EURS Token",
+    "address": "0x6d906e526a4e2Ca02097BA9d0caA3c382F52278E",
+    "symbol": "EURS",
+    "decimals": 2,
+    "logoURI": "assets/img/tokens/mainnet/0xdB25f211AB05b1c97D595516F45794528a807ad8.webp",
+    "website": "https://eurs.stasis.net",
+    "twitter": "https://twitter.com/stasisnet"
+  }
+]
