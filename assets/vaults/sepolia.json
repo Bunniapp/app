@@ -18,15 +18,6 @@
     "symbol": "waUSDT"
   },
   {
-    "address": "0x970537CE12Ad64978c136cE1e521673055310715",
-    "asset": "0xC558DBdd856501FCd9aaF1E62eae57A9F0629a3c",
-    "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/aave.png",
-    "name": "ERC4626-Wrapped Aave v3 WETH",
-    "protocol": "Aave v3",
-    "symbol": "waWETH"
-  },
-  {
     "address": "0xD4Fea6A3c62CAb60d8156e8968f9973566D8bbEc",
     "asset": "0xFF34B3d4Aee8ddCd6F9AFFFB6Fe49bD371b8a357",
     "decimals": 18,
