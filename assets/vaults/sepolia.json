@@ -1,65 +1,83 @@
 [
   {
-    "address": "0x5015d96269700D49Ff696CCC0743A75Aa10E8D0b",
-    "asset": "0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8",
+    "address": "0xFA2d940Ba55eb05f272F99245abd808aD42b6C75",
+    "asset": "0x2886384263a375791cbD7Fd494d8341B813d9587",
     "decimals": 6,
-    "logoURI": "assets/img/vaults/mainnet/aave.png",
-    "name": "ERC4626-Wrapped Aave v3 USDC",
-    "protocol": "Aave v3",
-    "symbol": "waUSDC"
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "Gearbox USDC",
+    "protocol": "Gearbox",
+    "symbol": "dUSDC"
   },
   {
-    "address": "0x092007C7FEfe8798970F88499F003eBBAfD5a826",
-    "asset": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0",
+    "address": "0x0b89caa08F27f83992bc790626745086544F24b1",
+    "asset": "0x6f714A642748A6e71676D9649a92A1830E41Bbe2",
     "decimals": 6,
-    "logoURI": "assets/img/vaults/mainnet/aave.png",
-    "name": "ERC4626-Wrapped Aave v3 USDT",
-    "protocol": "Aave v3",
-    "symbol": "waUSDT"
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "Gearbox USDT",
+    "protocol": "Gearbox",
+    "symbol": "dUSDT"
   },
   {
-    "address": "0xD4Fea6A3c62CAb60d8156e8968f9973566D8bbEc",
-    "asset": "0xFF34B3d4Aee8ddCd6F9AFFFB6Fe49bD371b8a357",
+    "address": "0xe1E4E3a9938BC30794D7dC4ba4c1C2eda7F73580",
+    "asset": "0xBdD59D645c37Fedf52e6e919056257e3491B5C1D",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/aave.png",
-    "name": "ERC4626-Wrapped Aave v3 DAI",
-    "protocol": "Aave v3",
-    "symbol": "waDAI"
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "Gearbox WETH",
+    "protocol": "Gearbox",
+    "symbol": "dWETH"
   },
   {
-    "address": "0xE8eDA88fFbb04cfb17D73c1B1F27c5626efBd451",
-    "asset": "0x29f2D40B0605204364af54EC677bD022dA425d03",
+    "address": "0x1F3C8b4179Ba5A41D71B3cb1a92b6708F7Ec5a3f",
+    "asset": "0x3fF33A8F1c748f05FDa389E6C9359cb564132E82",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "Gearbox DAI",
+    "protocol": "Gearbox",
+    "symbol": "dDAI"
+  },
+  {
+    "address": "0x94ff31D70C7Ea7fc6Da07E069B08430677202E1c",
+    "asset": "0xf3b8F1456f4323313610709b1bfD78D922c4fA7A",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "Gearbox GHO",
+    "protocol": "Gearbox",
+    "symbol": "dGHO"
+  },
+  {
+    "address": "0x9a1A87721f837D39849F036628304bbb1B6aE365",
+    "asset": "0x5A9E94A78E813466b2410fdE23F4680e9E412c57",
     "decimals": 8,
     "logoURI": "assets/img/vaults/mainnet/aave.png",
-    "name": "ERC4626-Wrapped Aave v3 WBTC",
+    "name": "Aave WBTC",
     "protocol": "Aave v3",
-    "symbol": "waWBTC"
+    "symbol": "aWBTC"
   },
   {
-    "address": "0x2593CDDeaeeD219F0F2060DaCF97Bc16E04161A7",
-    "asset": "0xf8Fb3713D459D7C1018BD0A49D19b4C44290EBE5",
+    "address": "0x4e7371f41975173A9c7f57378255042F950CE11c",
+    "asset": "0xBdD59D645c37Fedf52e6e919056257e3491B5C1D",
     "decimals": 18,
     "logoURI": "assets/img/vaults/mainnet/aave.png",
-    "name": "ERC4626-Wrapped Aave v3 LINK",
+    "name": "Aave WETH",
     "protocol": "Aave v3",
-    "symbol": "waLINK"
+    "symbol": "aWETH"
   },
   {
-    "address": "0xa5716ee7ac133d6758a3684bcb16Ead2A233Cc2A",
-    "asset": "0x88541670E55cC00bEEFD87eB59EDd1b7C511AC9a",
-    "decimals": 18,
+    "address": "0x24BeAA6FF1f626f2a3C95d08Aaa824B6865F598f",
+    "asset": "0x6f714A642748A6e71676D9649a92A1830E41Bbe2",
+    "decimals": 6,
     "logoURI": "assets/img/vaults/mainnet/aave.png",
-    "name": "ERC4626-Wrapped Aave v3 AAVE",
+    "name": "Aave USDT",
     "protocol": "Aave v3",
-    "symbol": "waAAVE"
+    "symbol": "USDT"
   },
   {
-    "address": "0x5aF0556387D818F941c187CeB26b4E3852f7B5c2",
-    "asset": "0x6d906e526a4e2Ca02097BA9d0caA3c382F52278E",
-    "decimals": 2,
+    "address": "0x3F4301287191ab1A960401d6a8C9fa55b832B1E1",
+    "asset": "0x2886384263a375791cbD7Fd494d8341B813d9587",
+    "decimals": 6,
     "logoURI": "assets/img/vaults/mainnet/aave.png",
-    "name": "ERC4626-Wrapped Aave v3 EURS",
+    "name": "Aave USDC",
     "protocol": "Aave v3",
-    "symbol": "waEURS"
+    "symbol": "USDC"
   }
 ]
