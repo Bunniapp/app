@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "chain": 11155111,
+    "description": "Using the Pool Creation UI, deploy a pool on the Sepolia testnet.",
+    "name": "Deploy a Pool",
+    "image": "assets/img/no-image-available.webp",
+    "startTime": 1717200000,
+    "endTime": 1719791999
+  },
+  {
+    "id": 2,
+    "chain": 11155111,
+    "description": "Deposit liquidity into three (3) unique pools on the Sepoila testnet.",
+    "name": "Deposit Liquidity",
+    "image": "assets/img/no-image-available.webp",
+    "startTime": 1717200000,
+    "endTime": 1719791999
+  },
+  {
+    "id": 3,
+    "chain": 11155111,
+    "description": "Perform at least five (5) swaps on the Sepolia testnet.",
+    "name": "Swap",
+    "image": "assets/img/no-image-available.webp",
+    "startTime": 1717200000,
+    "endTime": 1719791999
+  }
+]
