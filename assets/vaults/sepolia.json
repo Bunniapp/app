@@ -69,7 +69,7 @@
     "logoURI": "assets/img/vaults/mainnet/aave.png",
     "name": "Aave USDT",
     "protocol": "Aave v3",
-    "symbol": "USDT"
+    "symbol": "aUSDT"
   },
   {
     "address": "0x3F4301287191ab1A960401d6a8C9fa55b832B1E1",
@@ -78,6 +78,6 @@
     "logoURI": "assets/img/vaults/mainnet/aave.png",
     "name": "Aave USDC",
     "protocol": "Aave v3",
-    "symbol": "USDC"
+    "symbol": "aUSDC"
   }
 ]
