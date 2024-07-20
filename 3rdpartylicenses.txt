@@ -3613,9 +3613,6 @@ Apache-2.0
 @web3modal/scaffold
 Apache-2.0
 
-@web3modal/scaffold-ui
-Apache-2.0
-
 @web3modal/scaffold-utils
 Apache-2.0
 

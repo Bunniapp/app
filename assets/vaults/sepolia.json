@@ -1,7 +1,7 @@
 [
   {
-    "address": "0xFA2d940Ba55eb05f272F99245abd808aD42b6C75",
-    "asset": "0x2886384263a375791cbD7Fd494d8341B813d9587",
+    "address": "0x100267EF3a22B0A7c3976299F20a09585c3aa1Fd",
+    "asset": "0x67a53a2b9984AF64A2e27b1582bC72406a2317c3",
     "decimals": 6,
     "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "Gearbox USDC",
@@ -9,8 +9,8 @@
     "symbol": "dUSDC"
   },
   {
-    "address": "0x0b89caa08F27f83992bc790626745086544F24b1",
-    "asset": "0x6f714A642748A6e71676D9649a92A1830E41Bbe2",
+    "address": "0xb8A207d3962a516F5CF51755fCBcda17B95eFF3d",
+    "asset": "0x4EC5374221821F9071A4BD5D15b91050F2Cf6C75",
     "decimals": 6,
     "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "Gearbox USDT",
@@ -18,8 +18,8 @@
     "symbol": "dUSDT"
   },
   {
-    "address": "0xe1E4E3a9938BC30794D7dC4ba4c1C2eda7F73580",
-    "asset": "0xBdD59D645c37Fedf52e6e919056257e3491B5C1D",
+    "address": "0xefC82921b1c5811b5a083443399C661650d2C166",
+    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
     "decimals": 18,
     "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "Gearbox WETH",
@@ -27,8 +27,8 @@
     "symbol": "dWETH"
   },
   {
-    "address": "0x1F3C8b4179Ba5A41D71B3cb1a92b6708F7Ec5a3f",
-    "asset": "0x3fF33A8F1c748f05FDa389E6C9359cb564132E82",
+    "address": "0x7226987e9A6E4F01497b5bAE816685812A885201",
+    "asset": "0xB5f214A5a9a12705A2Bc0cA94ddad7f9f425c46b",
     "decimals": 18,
     "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "Gearbox DAI",
@@ -36,8 +36,8 @@
     "symbol": "dDAI"
   },
   {
-    "address": "0x94ff31D70C7Ea7fc6Da07E069B08430677202E1c",
-    "asset": "0xf3b8F1456f4323313610709b1bfD78D922c4fA7A",
+    "address": "0x985e75d7FdDB73ec218498A4089B292d251E4581",
+    "asset": "0x51C9b39CE3c0c0ea450674e6D8A5Ec088d44aE17",
     "decimals": 18,
     "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "Gearbox GHO",
@@ -45,8 +45,8 @@
     "symbol": "dGHO"
   },
   {
-    "address": "0x9a1A87721f837D39849F036628304bbb1B6aE365",
-    "asset": "0x5A9E94A78E813466b2410fdE23F4680e9E412c57",
+    "address": "0xE846A261fDA0DD02884944553d16452e040D7b4C",
+    "asset": "0xDfBBF048075D9db3c34aB34a0843bC16De8c3B3D",
     "decimals": 8,
     "logoURI": "assets/img/vaults/mainnet/aave.png",
     "name": "Aave WBTC",
@@ -54,8 +54,8 @@
     "symbol": "aWBTC"
   },
   {
-    "address": "0x4e7371f41975173A9c7f57378255042F950CE11c",
-    "asset": "0xBdD59D645c37Fedf52e6e919056257e3491B5C1D",
+    "address": "0x11B6857CB282FE29FB37fDb2Bb239Cba7B3eb8ab",
+    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
     "decimals": 18,
     "logoURI": "assets/img/vaults/mainnet/aave.png",
     "name": "Aave WETH",
@@ -63,8 +63,8 @@
     "symbol": "aWETH"
   },
   {
-    "address": "0x24BeAA6FF1f626f2a3C95d08Aaa824B6865F598f",
-    "asset": "0x6f714A642748A6e71676D9649a92A1830E41Bbe2",
+    "address": "0x65574a06f8Fe4E86d1434DB9d486d1e03a02A06A",
+    "asset": "0x4EC5374221821F9071A4BD5D15b91050F2Cf6C75",
     "decimals": 6,
     "logoURI": "assets/img/vaults/mainnet/aave.png",
     "name": "Aave USDT",
@@ -72,8 +72,8 @@
     "symbol": "aUSDT"
   },
   {
-    "address": "0x3F4301287191ab1A960401d6a8C9fa55b832B1E1",
-    "asset": "0x2886384263a375791cbD7Fd494d8341B813d9587",
+    "address": "0x03240B49b835EC77adaA76516de879498a3F76eC",
+    "asset": "0x67a53a2b9984AF64A2e27b1582bC72406a2317c3",
     "decimals": 6,
     "logoURI": "assets/img/vaults/mainnet/aave.png",
     "name": "Aave USDC",
