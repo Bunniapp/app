@@ -79,5 +79,77 @@
     "name": "Aave USDC",
     "protocol": "Aave v3",
     "symbol": "aUSDC"
+  },
+  {
+    "address": "0x672b7B6E0A9Cde6eEe871A8b8C766c3e58c132D4",
+    "asset": "0xB5f214A5a9a12705A2Bc0cA94ddad7f9f425c46b",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Morpho Spark DAI Vault",
+    "protocol": "Morpho Blue",
+    "symbol": "MORPHO-SPDAI"
+  },
+  {
+    "address": "0xbC532AE3224c4E44C511C9d87A3F65BE719a9295",
+    "asset": "0x67a53a2b9984AF64A2e27b1582bC72406a2317c3",
+    "decimals": 6,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Morpho USDC Core",
+    "protocol": "Morpho Blue",
+    "symbol": "GTUSDCCORE"
+  },
+  {
+    "address": "0xDe0E71057a1FF098B430BC72Cef6e77F22AA96e3",
+    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Morpho WETH Core",
+    "protocol": "Morpho Blue",
+    "symbol": "GTWETHCORE"
+  },
+  {
+    "address": "0xA192F694B169af60FCA30A08D677B6d3e71F8936",
+    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Morpho Re7 WETH",
+    "protocol": "Morpho Blue",
+    "symbol": "RE7WETH"
+  },
+  {
+    "address": "0x309126E12Dc3a5bCfDbc66c6e0A2746f87Baff54",
+    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/sommelier.png",
+    "name": "Turbo stETH",
+    "protocol": "Sommelier",
+    "symbol": "SOMM-stETH"
+  },
+  {
+    "address": "0xdF2A5c2854CF81d0d58a75a6F0C87b94f16EB76f",
+    "asset": "0xDfBBF048075D9db3c34aB34a0843bC16De8c3B3D",
+    "decimals": 8,
+    "logoURI": "assets/img/vaults/mainnet/sommelier.png",
+    "name": "Real Yield BTC",
+    "protocol": "Sommelier",
+    "symbol": "SOMM-BTC"
+  },
+  {
+    "address": "0xF15210a2D1077064771dD01Ce996402f6607756E",
+    "asset": "0xB5f214A5a9a12705A2Bc0cA94ddad7f9f425c46b",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/spark.png",
+    "name": "Spark DAI",
+    "protocol": "Spark",
+    "symbol": "spDAI"
+  },
+  {
+    "address": "0x9D1530d91Faa1f711DC8B7939a9e15c2D2e03729",
+    "asset": "0x67a53a2b9984AF64A2e27b1582bC72406a2317c3",
+    "decimals": 6,
+    "logoURI": "assets/img/vaults/mainnet/spark.png",
+    "name": "Spark USDC",
+    "protocol": "Spark",
+    "symbol": "spUSDC"
   }
 ]
