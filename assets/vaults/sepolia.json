@@ -151,5 +151,23 @@
     "name": "Spark USDC",
     "protocol": "Spark",
     "symbol": "spUSDC"
+  },
+  {
+    "address": "0xc0f4Ce3e8A4A055CEe8eCD0770781441522F3a9A",
+    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/compound.svg",
+    "name": "Compound ETH",
+    "protocol": "Compound v3",
+    "symbol": "cETH"
+  },
+  {
+    "address": "0x0B35fFC0A27f48B8604355E5c140F3211cc06B1B",
+    "asset": "0x67a53a2b9984AF64A2e27b1582bC72406a2317c3",
+    "decimals": 6,
+    "logoURI": "assets/img/vaults/mainnet/compound.svg",
+    "name": "Compound USDC",
+    "protocol": "Compound v3",
+    "symbol": "cUSDC"
   }
 ]
