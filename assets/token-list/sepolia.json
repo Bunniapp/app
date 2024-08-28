@@ -86,5 +86,27 @@
     "twitter": "https://x.com/GearboxProtocol",
     "color": "rgb(244, 18, 154)",
     "faucet": true
+  },
+  {
+    "name": "Frax",
+    "address": "0x0C37612638b5b4Ca4Ad30c64eAD5Ca836a5430cE",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x853d955aCEf822Db058eb8505911ED77F175b99e.png",
+    "website": "https://frax.finance",
+    "twitter": "https://x.com/fraxfinance",
+    "color": "rgb(255, 255, 255)",
+    "faucet": true
+  },
+  {
+    "name": "f(x) rUSD",
+    "address": "0xB887d06Bca2F44DE15e10e7a38BB8F99dee42D51",
+    "symbol": "rUSD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x65D72AA8DA931F047169112fcf34f52DbaAE7D18.svg",
+    "website": "https://fx.aladdin.club",
+    "twitter": "https://x.com/protocol_fx",
+    "color": "rgb(12, 21, 123)",
+    "faucet": true
   }
 ]

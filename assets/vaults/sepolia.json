@@ -169,5 +169,50 @@
     "name": "Compound USDC",
     "protocol": "Compound v3",
     "symbol": "cUSDC"
+  },
+  {
+    "address": "0xb08138edD67B972EEb0D06f5648BE1939A757500",
+    "asset": "0x0C37612638b5b4Ca4Ad30c64eAD5Ca836a5430cE",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "FraxLend FRAX",
+    "protocol": "FraxLend",
+    "symbol": "flFRAX"
+  },
+  {
+    "address": "0x6c950E1D6E3c45DCC02BC4018606F8a11D46d866",
+    "asset": "0x67a53a2b9984AF64A2e27b1582bC72406a2317c3",
+    "decimals": 6,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "FraxLend USDC",
+    "protocol": "FraxLend",
+    "symbol": "flUSDC"
+  },
+  {
+    "address": "0xfceedc635CeCb7DF16345095d1119fA98a1da8d2",
+    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/beefy.png",
+    "name": "Beefy Silo WETH",
+    "protocol": "Beefy",
+    "symbol": "mooSiloWETH"
+  },
+  {
+    "address": "0x7C857F9CeC5C2C56325D3c3528C402a406C2679f",
+    "asset": "0x67a53a2b9984AF64A2e27b1582bC72406a2317c3",
+    "decimals": 6,
+    "logoURI": "assets/img/vaults/mainnet/beefy.png",
+    "name": "Beefy Silo USDC",
+    "protocol": "Beefy",
+    "symbol": "mooSiloUSDC"
+  },
+  {
+    "address": "0xe388Ccf68832C64268d2b8eA2cb00572eB50D178",
+    "asset": "0xB887d06Bca2F44DE15e10e7a38BB8F99dee42D51",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/concentrator.jpg",
+    "name": "Concentrator arUSD",
+    "protocol": "Concentrator",
+    "symbol": "arUSD"
   }
 ]
