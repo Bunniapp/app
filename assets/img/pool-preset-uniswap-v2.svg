@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <defs>
+    <linearGradient id="coinGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8A6CFF"/>
+      <stop offset="100%" stop-color="#4536A5"/>
+    </linearGradient>
+    <linearGradient id="coinGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C3B4FF"/>
+      <stop offset="100%" stop-color="#9B93F3"/>
+    </linearGradient>
+  </defs>
+  
+  <g>
+      <rect x="60" y="70" width="40" height="40" rx="20" ry="20" fill="url(#coinGradient1)"/>
+  </g>
+  
+  <g opacity="0.7">
+      <rect x="100" y="70" width="40" height="40" rx="20" ry="20" fill="url(#coinGradient2)"/>
+  </g>
+</svg>
