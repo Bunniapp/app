@@ -97,5 +97,23 @@
     "name": "Fraxlend Interest Bearing FRAX (Staked Frax Ether) - 4",
     "protocol": "FraxLend",
     "symbol": "fFRAX(sfrxETH)-4"
+  },
+  {
+    "address": "0xC47bB288178Ea40bF520a91826a3DEE9e0DbFA4C",
+    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/sommelier.png",
+    "name": "Real Yield ETH",
+    "protocol": "Sommelier",
+    "symbol": "RYETH"
+  },
+  {
+    "address": "0x392B1E6905bb8449d26af701Cdea6Ff47bF6e5A8",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 6,
+    "logoURI": "assets/img/vaults/mainnet/sommelier.png",
+    "name": "Real Yield USD",
+    "protocol": "Sommelier",
+    "symbol": "RYUSD"
   }
 ]
