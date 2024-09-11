@@ -412,5 +412,311 @@
     "name": "Staked FRAX",
     "protocol": "Frax Finance",
     "symbol": "sFRAX"
+  },
+  {
+    "address": "0xc080f56504e0278828A403269DB945F6c6D6E014",
+    "asset": "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Gauntlet eUSD Core",
+    "protocol": "Morpho",
+    "symbol": "gteUSDc"
+  },
+  {
+    "address": "0xEbFA750279dEfa89b8D99bdd145a016F6292757b",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Gauntlet MKR Blended",
+    "protocol": "Morpho",
+    "symbol": "gtUSDCmkr"
+  },
+  {
+    "address": "0x67315dd969B8Cd3a3520C245837Bf71f54579C75",
+    "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "LlamaRisk crvUSD Vault",
+    "protocol": "Morpho",
+    "symbol": "llama-crvUSD"
+  },
+  {
+    "address": "0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "f(x) Protocol Morpho USDC",
+    "protocol": "Morpho",
+    "symbol": "fxUSDC"
+  },
+  {
+    "address": "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Gauntlet USDC Core",
+    "protocol": "Morpho",
+    "symbol": "gtUSDCcore"
+  },
+  {
+    "address": "0x4cA0E178c94f039d7F202E09d8d1a655Ed3fb6b6",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "LeadBlock USDC RWA",
+    "protocol": "Morpho",
+    "symbol": "USDC RWA"
+  },
+  {
+    "address": "0x500331c9fF24D9d11aee6B07734Aa72343EA74a5",
+    "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Gauntlet DAI Core",
+    "protocol": "Morpho",
+    "symbol": "gtDAIcore"
+  },
+  {
+    "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Usual Boosted USDC",
+    "protocol": "Morpho",
+    "symbol": "USUALUSDC+"
+  },
+  {
+    "address": "0xbEef047a543E45807105E51A8BBEFCc5950fcfBa",
+    "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Steakhouse USDT",
+    "protocol": "Morpho",
+    "symbol": "steakUSDT"
+  },
+  {
+    "address": "0x8CB3649114051cA5119141a34C200D65dc0Faa73",
+    "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Gauntlet USDT Prime",
+    "protocol": "Morpho",
+    "symbol": "gtUSDT"
+  },
+  {
+    "address": "0x9a8bC3B04b7f3D87cfC09ba407dCED575f2d61D8",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "MEV Capital wETH",
+    "protocol": "Morpho",
+    "symbol": "MCwETH"
+  },
+  {
+    "address": "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Gauntlet LRT Core",
+    "protocol": "Morpho",
+    "symbol": "gtLRTcore"
+  },
+  {
+    "address": "0xbEEF02e5E13584ab96848af90261f0C8Ee04722a",
+    "asset": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Steakhouse PYUSD",
+    "protocol": "Morpho",
+    "symbol": "steakPYUSD"
+  },
+  {
+    "address": "0xdd0f28e19C1780eb6396170735D45153D261490d",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Gauntlet USDC Prime",
+    "protocol": "Morpho",
+    "symbol": "gtUSDC"
+  },
+  {
+    "address": "0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Steakhouse USDC",
+    "protocol": "Morpho",
+    "symbol": "steakUSDC"
+  },
+  {
+    "address": "0xBE40491F3261Fd42724F1AEb465796eb11c06ddF",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Re7 FRAX",
+    "protocol": "Morpho",
+    "symbol": "Re7FRAX"
+  },
+  {
+    "address": "0x95EeF579155cd2C5510F312c8fA39208c3Be01a8",
+    "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Re7 USDT",
+    "protocol": "Morpho",
+    "symbol": "Re7USDT"
+  },
+  {
+    "address": "0x186514400e52270cef3D80e1c6F8d10A75d47344",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Flagship USDC",
+    "protocol": "Morpho",
+    "symbol": "bbUSDC"
+  },
+  {
+    "address": "0x2C25f6C25770fFEC5959D34B94Bf898865e5D6b1",
+    "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Flagship USDT",
+    "protocol": "Morpho",
+    "symbol": "bbUSDT"
+  },
+  {
+    "address": "0x4Ff4186188f8406917293A9e01A1ca16d3cf9E59",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "SwissBorg Morpho USDC",
+    "protocol": "Morpho",
+    "symbol": "sbMorphoUSDC"
+  },
+  {
+    "address": "0x125D41A6e5dbf455cD9Df8F80BCC6fd172D52Cc6",
+    "asset": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Gauntlet USDA Core",
+    "protocol": "Morpho",
+    "symbol": "gtUSDAcore"
+  },
+  {
+    "address": "0x89D80f5e9BC88d8021b352064ae73F0eAf79EBd8",
+    "asset": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Re7 USDA",
+    "protocol": "Morpho",
+    "symbol": "Re7USDA"
+  },
+  {
+    "address": "0x78Fc2c2eD1A4cDb5402365934aE5648aDAd094d0",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Re7 WETH",
+    "protocol": "Morpho",
+    "symbol": "Re7WETH"
+  },
+  {
+    "address": "0xBEEf050ecd6a16c4e7bfFbB52Ebba7846C4b8cD4",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Steakhouse ETH",
+    "protocol": "Morpho",
+    "symbol": "steakETH"
+  },
+  {
+    "address": "0x60d715515d4411f7F43e4206dc5d4a3677f0eC78",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Re7 USDC",
+    "protocol": "Morpho",
+    "symbol": "Re7USDC"
+  },
+  {
+    "address": "0x2371e134e3455e0593363cBF89d3b6cf53740618",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Gauntlet WETH Prime",
+    "protocol": "Morpho",
+    "symbol": "gtWETH"
+  },
+  {
+    "address": "0xC21DB71648B18C5B9E038d88393C9b254cf8eaC8",
+    "asset": "0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "EUR Real Yield",
+    "protocol": "Morpho",
+    "symbol": "ERY"
+  },
+  {
+    "address": "0x38989BBA00BDF8181F4082995b3DEAe96163aC5D",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Flagship ETH",
+    "protocol": "Morpho",
+    "symbol": "bbETH"
+  },
+  {
+    "address": "0x443df5eEE3196e9b2Dd77CaBd3eA76C3dee8f9b2",
+    "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Gauntlet WBTC Core",
+    "protocol": "Morpho",
+    "symbol": "gtWBTCc"
+  },
+  {
+    "address": "0xE0C98605f279e4D7946d25B75869c69802823763",
+    "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Re7 WBTC",
+    "protocol": "Morpho",
+    "symbol": "Re7WBTC"
+  },
+  {
+    "address": "0x1B4cd53a1A8e5F50aB6320EF34E5fB4D3df7B6f6",
+    "asset": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Gauntlet AUSD Core",
+    "protocol": "Morpho",
+    "symbol": "gtAUSDc"
+  },
+  {
+    "address": "0x1265a81d42d513Df40d0031f8f2e1346954d665a",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "MEV Capital Elixir USDC",
+    "protocol": "Morpho",
+    "symbol": "MC.eUSDC"
+  },
+  {
+    "address": "0xbeEf094333AEdD535c130958c204E84f681FD9FA",
+    "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Steakhouse WBTC",
+    "protocol": "Morpho",
+    "symbol": "steakWBTC"
+  },
+  {
+    "address": "0x43fD147d5319B8Cf39a6e57143684Efca9CF3613",
+    "asset": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/morpho.png",
+    "name": "Re7 tBTC",
+    "protocol": "Morpho",
+    "symbol": "Re7tBTC"
   }
 ]
