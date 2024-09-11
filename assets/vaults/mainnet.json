@@ -99,6 +99,15 @@
     "symbol": "dUSDTV3"
   },
   {
+    "address": "0x8EF73f036fEEC873D0B2fd20892215Df5B8Bdd72",
+    "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
+    "name": "crvUSD v3",
+    "protocol": "Gearbox",
+    "symbol": "dcrvUSDV3"
+  },
+  {
     "address": "0x794F6B13FBd7EB7ef10d1ED205c9a416910207Ff",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
