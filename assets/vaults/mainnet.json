@@ -97,5 +97,320 @@
     "name": "USDT v3",
     "protocol": "Gearbox",
     "symbol": "dUSDTV3"
+  },
+  {
+    "address": "0x794F6B13FBd7EB7ef10d1ED205c9a416910207Ff",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "FraxlendV1 - Wrapped Ether/Frax - Variable Time-Weighted Interest Rate - 2",
+    "protocol": "FraxLend",
+    "symbol": "FraxlendV1 - WETH/FRAX"
+  },
+  {
+    "address": "0x32467a5fc2d72D21E8DCe990906547A2b012f382",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "FraxlendV1 - Wrapped BTC/Frax - Variable Time-Weighted Interest Rate - 1",
+    "protocol": "FraxLend",
+    "symbol": "FraxlendV1 - WBTC/FRAX"
+  },
+  {
+    "address": "0x78bB3aEC3d855431bd9289fD98dA13F9ebB7ef15",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Staked Frax Ether) - 16",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(sfrxETH)-16"
+  },
+  {
+    "address": "0xDbe88DBAc39263c47629ebbA02b3eF4cf0752A72",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "FraxlendV1 - Frax Share/Frax - Variable Time-Weighted Interest Rate - 5",
+    "protocol": "FraxLend",
+    "symbol": "FraxlendV1 - FXS/FRAX"
+  },
+  {
+    "address": "0x74F82Bd9D0390A4180DaaEc92D64cf0708751759",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Frax Price Index) - 12",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(FPI)-12"
+  },
+  {
+    "address": "0x3a25B9aB8c07FfEFEe614531C75905E810d8A239",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (ApeCoin) - 17",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(APE)-17"
+  },
+  {
+    "address": "0xa1D100a5bf6BFd2736837c97248853D989a9ED84",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "FraxlendV1 - Convex Token/Frax - Variable Time-Weighted Interest Rate - 4",
+    "protocol": "FraxLend",
+    "symbol": "FraxlendV1 - CVX/FRAX"
+  },
+  {
+    "address": "0x3835a58CA93Cdb5f912519ad366826aC9a752510",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "FraxlendV1 - Curve DAO Token/Frax - Variable Time-Weighted Interest Rate - 6",
+    "protocol": "FraxLend",
+    "symbol": "FraxlendV1 - CRV/FRAX"
+  },
+  {
+    "address": "0x66bf36dBa79d4606039f04b32946A260BCd3FF52",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Governance OHM) - 11",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(gOHM)-11"
+  },
+  {
+    "address": "0x82Ec28636B77661a95f021090F6bE0C8d379DD5D",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Maker) - 18",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(MKR)-18"
+  },
+  {
+    "address": "0xc6CadA314389430d396C7b0C70c6281e99ca7fe8",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Uniswap) - 19",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(UNI)-19"
+  },
+  {
+    "address": "0xc779fEE076EB04b9F8EA424ec19DE27Efd17A68d",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Aave Token) - 20",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(AAVE)-20"
+  },
+  {
+    "address": "0xeE847a804b67f4887c9E8fe559A2dA4278deFB52",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 6,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing USDC (Staked Frax Ether) - 26",
+    "protocol": "FraxLend",
+    "symbol": "fUSDC(sfrxETH)-26"
+  },
+  {
+    "address": "0x7093F6141293F7C4F67E5efD922aC934402E452d",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (ChainLink Token) - 27",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(LINK)-27"
+  },
+  {
+    "address": "0xb5a46f712F03808aE5c4B885C6F598fA06442684",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Wrapped liquid staked Ether 2.0) - 28",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(wstETH)-28"
+  },
+  {
+    "address": "0x0601B72bEF2b3F09E9f48B7d60a8d7D2D3800C6e",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Lido DAO Token) - 29",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(LDO)-29"
+  },
+  {
+    "address": "0xa4Ddd4770588EF97A3a03E4B7E3885d824159bAA",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Rocket Pool ETH) - 30",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(rETH)-30"
+  },
+  {
+    "address": "0xb5Ae5b75C0DF5632c572A657109375646Ce66f90",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Staked USDe) - 31",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(sUSDe)-31"
+  },
+  {
+    "address": "0xeca60a11c49486088Ad7c5e4aD7Dae2C061DBb1c",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (USDe) - 32",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(USDe)-32"
+  },
+  {
+    "address": "0x5Ee658b7f46FD9DeE4608aE9c8E7d78AAD7509C2",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Renzo Restaked ETH) - 33",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(ezETH)-33"
+  },
+  {
+    "address": "0xb67Bd04f74BD79a505c5167675E8812355270eD5",
+    "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "decimals": 8,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing WBTC (Staked FRAX) - 34",
+    "protocol": "FraxLend",
+    "symbol": "fWBTC(sFRAX)-34"
+  },
+  {
+    "address": "0x501256B1DC7bb99CdE57AF188a69307BCC7E00E8",
+    "asset": "0xac3E018457B222d93114458476f3E3416Abbe38F",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing sfrxETH (Staked FRAX) - 35",
+    "protocol": "FraxLend",
+    "symbol": "fsfrxETH(sFRAX)-35"
+  },
+  {
+    "address": "0x1eE17BE9B788bcf3EB86C08D0E2b049e036F6eb1",
+    "asset": "0x5E8422345238F34275888049021821E8E08CAa1f",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing frxETH (Renzo Restaked ETH) - 36",
+    "protocol": "FraxLend",
+    "symbol": "ffrxETH(ezETH)-36"
+  },
+  {
+    "address": "0xCfE3550206ea801c3F7Dc7997376F09E0b7e4B81",
+    "asset": "0x5E8422345238F34275888049021821E8E08CAa1f",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing frxETH (rsETH) - 37",
+    "protocol": "FraxLend",
+    "symbol": "ffrxETH(rsETH)-37"
+  },
+  {
+    "address": "0x48f32B7c960fD0280297F6F0182E2607a3398Db5",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Staked Dola) - 38",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(sDOLA)-38"
+  },
+  {
+    "address": "0xbE08194b3F4ae9CD80Bd7f553A9a782c0ed65d17",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Coinbase Wrapped Staked ETH) - 39",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(cbETH)-39"
+  },
+  {
+    "address": "0x1D95C12d7A8d525F8d8Cb0C44814B12cd13Dfa01",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 6,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing USDC (Wrapped liquid staked Ether 2.0) - 40",
+    "protocol": "FraxLend",
+    "symbol": "fUSDC(wstETH)-40"
+  },
+  {
+    "address": "0x8C9dB7a9329f221eD1fFE56BF4Bd073aA320eed9",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Wrapped eETH) - 41",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(weETH)-41"
+  },
+  {
+    "address": "0x76FF120FF669591b7cb5452995C0269437beA414",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Wrapped Ether) - 42",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(WETH)-42"
+  },
+  {
+    "address": "0x254fbc9dBB12C446ea5c9a4439C816d34b875920",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Wrapped OETH) - 44",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(WOETH)-44"
+  },
+  {
+    "address": "0x54e20B542EEd95e6c7d8F29aD46A3cf5661C3048",
+    "asset": "0x5E8422345238F34275888049021821E8E08CAa1f",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing frxETH (Wrapped OETH) - 45",
+    "protocol": "FraxLend",
+    "symbol": "ffrxETH(WOETH)-45"
+  },
+  {
+    "address": "0xc16B81e004288C465EaAdf080028994044a3C69F",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Pepe) - 46",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(PEPE)-46"
+  },
+  {
+    "address": "0x6A80bE9Df5F46eB11d0C6ed706607F72c0d1C337",
+    "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing crvUSD (Staked Frax Ether) - 47",
+    "protocol": "FraxLend",
+    "symbol": "fcrvUSD(sfrxETH)-47"
+  },
+  {
+    "address": "0x5EA719aA26C158B7B0F5b6363c6beBCF4aE3cdB6",
+    "asset": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing DOLA (Staked Frax Ether) - 48",
+    "protocol": "FraxLend",
+    "symbol": "fDOLA(sfrxETH)-48"
+  },
+  {
+    "address": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/sfrax.png",
+    "name": "Staked FRAX",
+    "protocol": "Frax Finance",
+    "symbol": "sFRAX"
   }
 ]

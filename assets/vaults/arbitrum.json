@@ -61,5 +61,41 @@
     "name": "ERC4626-Wrapped Aave v3 ARB",
     "protocol": "Aave v3",
     "symbol": "waARB"
+  },
+  {
+    "address": "0x2D0483FefAbA4325c7521539a3DFaCf94A19C472",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Arbitrum) - 1",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(ARB)-1"
+  },
+  {
+    "address": "0x6076ebDFE17555ed3E6869CF9C373Bbd9aD55d38",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (GMX) - 2",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(GMX)-2"
+  },
+  {
+    "address": "0x9168AC3a83A31bd85c93F4429a84c05db2CaEF08",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Wrapped BTC) - 3",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(WBTC)-3"
+  },
+  {
+    "address": "0xc37Aa0cF7E45fe0e811d99062020080147970A1a",
+    "asset": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
+    "name": "Fraxlend Interest Bearing FRAX (Staked Frax Ether) - 4",
+    "protocol": "FraxLend",
+    "symbol": "fFRAX(sfrxETH)-4"
   }
 ]
