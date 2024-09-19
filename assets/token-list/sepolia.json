@@ -108,5 +108,27 @@
     "twitter": "https://x.com/protocol_fx",
     "color": "rgb(12, 21, 123)",
     "faucet": true
+  },
+  {
+    "name": "Origin Ether",
+    "address": "0x61dC265c543c5d280A5270f4b10DA8f9FA3ac66E",
+    "symbol": "oETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3.webp",
+    "website": "https://www.originprotocol.com",
+    "twitter": "https://x.com/originprotocol",
+    "color": "rgb(27, 130, 255)",
+    "faucet": true
+  },
+  {
+    "name": "Pirex Ether",
+    "address": "0x83985Dc2c6f241b0301E5c88aD81677931c88760",
+    "symbol": "pxETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6.webp",
+    "website": "https://dinero.xyz",
+    "twitter": "https://x.com/dinero_xyz",
+    "color": "rgb(9, 96, 124)",
+    "faucet": true
   }
 ]

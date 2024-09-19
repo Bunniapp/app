@@ -808,5 +808,50 @@
     "name": "WMoo Stargate ETH",
     "protocol": "Beefy",
     "symbol": "wmooStargateETH"
+  },
+  {
+    "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
+    "asset": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/origin.png",
+    "name": "Wrapped OETH",
+    "protocol": "Origin",
+    "symbol": "WOETH"
+  },
+  {
+    "address": "0x0669091F451142b3228171aE6aD794cF98288124",
+    "asset": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/sturdy.jpg",
+    "name": "Sturdy PxETH/yearn curve StETH-PxETH LP silo",
+    "protocol": "Sturdy",
+    "symbol": "yspxETH"
+  },
+  {
+    "address": "0x26fe402A57D52c8a323bb6e09f06489C8216aC88",
+    "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/sturdy.jpg",
+    "name": "Sturdy crvUSD/yean curve USDT-crvUSD LP silo",
+    "protocol": "Sturdy",
+    "symbol": "yscrvUSD"
+  },
+  {
+    "address": "0x6311fF24fb15310eD3d2180D3d0507A21a8e5227",
+    "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/sturdy.jpg",
+    "name": "Sturdy crvUSD/yean curve USDC-crvUSD LP silo",
+    "protocol": "Sturdy",
+    "symbol": "yscrvUSD"
+  },
+  {
+    "address": "0xFa68707be4b58FB9F10748E30e25A15113EdEE1D",
+    "asset": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/sturdy.jpg",
+    "name": "Sturdy PxETH/ApxETH silo",
+    "protocol": "Sturdy",
+    "symbol": "yspxETH"
   }
 ]

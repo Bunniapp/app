@@ -214,5 +214,32 @@
     "name": "Concentrator arUSD",
     "protocol": "Concentrator",
     "symbol": "arUSD"
+  },
+  {
+    "address": "0xEd98bEc4CDD2324DfE2537a496226CAFc01D6a7C",
+    "asset": "0x61dC265c543c5d280A5270f4b10DA8f9FA3ac66E",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/origin.png",
+    "name": "Wrapped Origin Ether",
+    "protocol": "Origin",
+    "symbol": "wOETH"
+  },
+  {
+    "address": "0xa3993F60F716B8E5cA8865D4108c91D759320d60",
+    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/sturdy.jpg",
+    "name": "Sturdy WETH",
+    "protocol": "Sturdy",
+    "symbol": "sturdy-WETH"
+  },
+  {
+    "address": "0x444B1EE1336a10fF05fE3c465DC5599bdDd1af87",
+    "asset": "0x83985Dc2c6f241b0301E5c88aD81677931c88760",
+    "decimals": 18,
+    "logoURI": "assets/img/vaults/mainnet/sturdy.jpg",
+    "name": "Sturdy pxETH",
+    "protocol": "Sturdy",
+    "symbol": "sturdy-pxETH"
   }
 ]
