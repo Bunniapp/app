@@ -1,0 +1,8 @@
+{
+  "name": "Aave",
+  "logoURI": "assets/img/vaults/mainnet/aave.png",
+  "logoRounded": true,
+  "website": "https://aave.com",
+  "documentation": "https://docs.aave.com/hub",
+  "twitter": "https://x.com/aave"
+}

@@ -3,855 +3,760 @@
     "address": "0xbcb91e0B4Ad56b0d41e0C168E3090361c0039abC",
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/aave.png",
     "name": "ERC4626-Wrapped Aave v2 DAI",
-    "protocol": "Aave v2",
-    "symbol": "wa2DAI"
+    "symbol": "wa2DAI",
+    "protocol": "assets/protocols/aave.json"
   },
   {
     "address": "0xc21F107933612eCF5677894d45fc060767479A9b",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/aave.png",
     "name": "ERC4626-Wrapped Aave v2 WETH",
-    "protocol": "Aave v2",
-    "symbol": "wa2WETH"
+    "symbol": "wa2WETH",
+    "protocol": "assets/protocols/aave.json"
   },
   {
     "address": "0x6D088fe2500Da41D7fA7ab39c76a506D7c91f53b",
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/compound.svg",
     "name": "ERC4626-Wrapped Compound DAI",
-    "protocol": "Compound",
-    "symbol": "wcDAI"
+    "symbol": "wcDAI",
+    "protocol": "assets/protocols/compound.json"
   },
   {
     "address": "0xF9A98A9452485ed55cd3Ce5260C2b71c9807b11a",
     "asset": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/lido.svg",
     "name": "ERC4626-Wrapped Lido stETH",
-    "protocol": "Lido",
-    "symbol": "wlstETH"
+    "symbol": "wlstETH",
+    "protocol": "assets/protocols/lido.json"
   },
   {
     "address": "0x83F20F44975D03b1b09e64809B757c47f942BEeA",
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/maker.png",
     "name": "Savings Dai",
-    "protocol": "Maker",
-    "symbol": "sDAI"
+    "symbol": "sDAI",
+    "protocol": "assets/protocols/maker.json"
   },
   {
     "address": "0xda00000035fef4082F78dEF6A8903bee419FbF8E",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 6,
-    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "Trade USDC v3",
-    "protocol": "Gearbox",
-    "symbol": "dUSDCV3"
+    "symbol": "dUSDCV3",
+    "protocol": "assets/protocols/gearbox.json"
   },
   {
     "address": "0xda00010eDA646913F273E10E7A5d1F659242757d",
     "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "decimals": 8,
-    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "Trade WBTC v3",
-    "protocol": "Gearbox",
-    "symbol": "dWBTCV3"
+    "symbol": "dWBTCV3",
+    "protocol": "assets/protocols/gearbox.json"
   },
   {
     "address": "0xda0002859B2d05F66a753d8241fCDE8623f26F4f",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "Trade WETH v3",
-    "protocol": "Gearbox",
-    "symbol": "dWETHV3"
+    "symbol": "dWETHV3",
+    "protocol": "assets/protocols/gearbox.json"
   },
   {
     "address": "0x4d56c9cBa373AD39dF69Eb18F076b7348000AE09",
     "asset": "0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "GHO v3",
-    "protocol": "Gearbox",
-    "symbol": "dGHOV3"
+    "symbol": "dGHOV3",
+    "protocol": "assets/protocols/gearbox.json"
   },
   {
     "address": "0xe7146F53dBcae9D6Fa3555FE502648deb0B2F823",
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "DAI v3",
-    "protocol": "Gearbox",
-    "symbol": "dDAIV3"
+    "symbol": "dDAIV3",
+    "protocol": "assets/protocols/gearbox.json"
   },
   {
     "address": "0x05A811275fE9b4DE503B3311F51edF6A856D936e",
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "decimals": 6,
-    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "USDT v3",
-    "protocol": "Gearbox",
-    "symbol": "dUSDTV3"
+    "symbol": "dUSDTV3",
+    "protocol": "assets/protocols/gearbox.json"
   },
   {
     "address": "0x8EF73f036fEEC873D0B2fd20892215Df5B8Bdd72",
     "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/gearbox.png",
     "name": "crvUSD v3",
-    "protocol": "Gearbox",
-    "symbol": "dcrvUSDV3"
+    "symbol": "dcrvUSDV3",
+    "protocol": "assets/protocols/gearbox.json"
   },
   {
     "address": "0x794F6B13FBd7EB7ef10d1ED205c9a416910207Ff",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "FraxlendV1 - Wrapped Ether/Frax - Variable Time-Weighted Interest Rate - 2",
-    "protocol": "FraxLend",
-    "symbol": "FraxlendV1 - WETH/FRAX"
+    "symbol": "FraxlendV1 - WETH/FRAX",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x32467a5fc2d72D21E8DCe990906547A2b012f382",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "FraxlendV1 - Wrapped BTC/Frax - Variable Time-Weighted Interest Rate - 1",
-    "protocol": "FraxLend",
-    "symbol": "FraxlendV1 - WBTC/FRAX"
+    "symbol": "FraxlendV1 - WBTC/FRAX",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x78bB3aEC3d855431bd9289fD98dA13F9ebB7ef15",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Staked Frax Ether) - 16",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(sfrxETH)-16"
+    "symbol": "fFRAX(sfrxETH)-16",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xDbe88DBAc39263c47629ebbA02b3eF4cf0752A72",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "FraxlendV1 - Frax Share/Frax - Variable Time-Weighted Interest Rate - 5",
-    "protocol": "FraxLend",
-    "symbol": "FraxlendV1 - FXS/FRAX"
+    "symbol": "FraxlendV1 - FXS/FRAX",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x74F82Bd9D0390A4180DaaEc92D64cf0708751759",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Frax Price Index) - 12",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(FPI)-12"
+    "symbol": "fFRAX(FPI)-12",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x3a25B9aB8c07FfEFEe614531C75905E810d8A239",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (ApeCoin) - 17",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(APE)-17"
+    "symbol": "fFRAX(APE)-17",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xa1D100a5bf6BFd2736837c97248853D989a9ED84",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "FraxlendV1 - Convex Token/Frax - Variable Time-Weighted Interest Rate - 4",
-    "protocol": "FraxLend",
-    "symbol": "FraxlendV1 - CVX/FRAX"
+    "symbol": "FraxlendV1 - CVX/FRAX",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x3835a58CA93Cdb5f912519ad366826aC9a752510",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "FraxlendV1 - Curve DAO Token/Frax - Variable Time-Weighted Interest Rate - 6",
-    "protocol": "FraxLend",
-    "symbol": "FraxlendV1 - CRV/FRAX"
+    "symbol": "FraxlendV1 - CRV/FRAX",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x66bf36dBa79d4606039f04b32946A260BCd3FF52",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Governance OHM) - 11",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(gOHM)-11"
+    "symbol": "fFRAX(gOHM)-11",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x82Ec28636B77661a95f021090F6bE0C8d379DD5D",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Maker) - 18",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(MKR)-18"
+    "symbol": "fFRAX(MKR)-18",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xc6CadA314389430d396C7b0C70c6281e99ca7fe8",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Uniswap) - 19",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(UNI)-19"
+    "symbol": "fFRAX(UNI)-19",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xc779fEE076EB04b9F8EA424ec19DE27Efd17A68d",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Aave Token) - 20",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(AAVE)-20"
+    "symbol": "fFRAX(AAVE)-20",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xeE847a804b67f4887c9E8fe559A2dA4278deFB52",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 6,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing USDC (Staked Frax Ether) - 26",
-    "protocol": "FraxLend",
-    "symbol": "fUSDC(sfrxETH)-26"
+    "symbol": "fUSDC(sfrxETH)-26",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x7093F6141293F7C4F67E5efD922aC934402E452d",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (ChainLink Token) - 27",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(LINK)-27"
+    "symbol": "fFRAX(LINK)-27",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xb5a46f712F03808aE5c4B885C6F598fA06442684",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Wrapped liquid staked Ether 2.0) - 28",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(wstETH)-28"
+    "symbol": "fFRAX(wstETH)-28",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x0601B72bEF2b3F09E9f48B7d60a8d7D2D3800C6e",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Lido DAO Token) - 29",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(LDO)-29"
+    "symbol": "fFRAX(LDO)-29",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xa4Ddd4770588EF97A3a03E4B7E3885d824159bAA",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Rocket Pool ETH) - 30",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(rETH)-30"
+    "symbol": "fFRAX(rETH)-30",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xb5Ae5b75C0DF5632c572A657109375646Ce66f90",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Staked USDe) - 31",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(sUSDe)-31"
+    "symbol": "fFRAX(sUSDe)-31",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xeca60a11c49486088Ad7c5e4aD7Dae2C061DBb1c",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (USDe) - 32",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(USDe)-32"
+    "symbol": "fFRAX(USDe)-32",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x5Ee658b7f46FD9DeE4608aE9c8E7d78AAD7509C2",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Renzo Restaked ETH) - 33",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(ezETH)-33"
+    "symbol": "fFRAX(ezETH)-33",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xb67Bd04f74BD79a505c5167675E8812355270eD5",
     "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "decimals": 8,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing WBTC (Staked FRAX) - 34",
-    "protocol": "FraxLend",
-    "symbol": "fWBTC(sFRAX)-34"
+    "symbol": "fWBTC(sFRAX)-34",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x501256B1DC7bb99CdE57AF188a69307BCC7E00E8",
     "asset": "0xac3E018457B222d93114458476f3E3416Abbe38F",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing sfrxETH (Staked FRAX) - 35",
-    "protocol": "FraxLend",
-    "symbol": "fsfrxETH(sFRAX)-35"
+    "symbol": "fsfrxETH(sFRAX)-35",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x1eE17BE9B788bcf3EB86C08D0E2b049e036F6eb1",
     "asset": "0x5E8422345238F34275888049021821E8E08CAa1f",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing frxETH (Renzo Restaked ETH) - 36",
-    "protocol": "FraxLend",
-    "symbol": "ffrxETH(ezETH)-36"
+    "symbol": "ffrxETH(ezETH)-36",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xCfE3550206ea801c3F7Dc7997376F09E0b7e4B81",
     "asset": "0x5E8422345238F34275888049021821E8E08CAa1f",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing frxETH (rsETH) - 37",
-    "protocol": "FraxLend",
-    "symbol": "ffrxETH(rsETH)-37"
+    "symbol": "ffrxETH(rsETH)-37",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x48f32B7c960fD0280297F6F0182E2607a3398Db5",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Staked Dola) - 38",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(sDOLA)-38"
+    "symbol": "fFRAX(sDOLA)-38",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xbE08194b3F4ae9CD80Bd7f553A9a782c0ed65d17",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Coinbase Wrapped Staked ETH) - 39",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(cbETH)-39"
+    "symbol": "fFRAX(cbETH)-39",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x1D95C12d7A8d525F8d8Cb0C44814B12cd13Dfa01",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 6,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing USDC (Wrapped liquid staked Ether 2.0) - 40",
-    "protocol": "FraxLend",
-    "symbol": "fUSDC(wstETH)-40"
+    "symbol": "fUSDC(wstETH)-40",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x8C9dB7a9329f221eD1fFE56BF4Bd073aA320eed9",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Wrapped eETH) - 41",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(weETH)-41"
+    "symbol": "fFRAX(weETH)-41",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x76FF120FF669591b7cb5452995C0269437beA414",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Wrapped Ether) - 42",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(WETH)-42"
+    "symbol": "fFRAX(WETH)-42",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x254fbc9dBB12C446ea5c9a4439C816d34b875920",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Wrapped OETH) - 44",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(WOETH)-44"
+    "symbol": "fFRAX(WOETH)-44",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x54e20B542EEd95e6c7d8F29aD46A3cf5661C3048",
     "asset": "0x5E8422345238F34275888049021821E8E08CAa1f",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing frxETH (Wrapped OETH) - 45",
-    "protocol": "FraxLend",
-    "symbol": "ffrxETH(WOETH)-45"
+    "symbol": "ffrxETH(WOETH)-45",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xc16B81e004288C465EaAdf080028994044a3C69F",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing FRAX (Pepe) - 46",
-    "protocol": "FraxLend",
-    "symbol": "fFRAX(PEPE)-46"
+    "symbol": "fFRAX(PEPE)-46",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x6A80bE9Df5F46eB11d0C6ed706607F72c0d1C337",
     "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing crvUSD (Staked Frax Ether) - 47",
-    "protocol": "FraxLend",
-    "symbol": "fcrvUSD(sfrxETH)-47"
+    "symbol": "fcrvUSD(sfrxETH)-47",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0x5EA719aA26C158B7B0F5b6363c6beBCF4aE3cdB6",
     "asset": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/fraxlend.png",
     "name": "Fraxlend Interest Bearing DOLA (Staked Frax Ether) - 48",
-    "protocol": "FraxLend",
-    "symbol": "fDOLA(sfrxETH)-48"
+    "symbol": "fDOLA(sfrxETH)-48",
+    "protocol": "assets/protocols/fraxlend.json"
   },
   {
     "address": "0xA663B02CF0a4b149d2aD41910CB81e23e1c41c32",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/sfrax.png",
     "name": "Staked FRAX",
-    "protocol": "Frax Finance",
-    "symbol": "sFRAX"
+    "symbol": "sFRAX",
+    "protocol": "assets/protocols/frax.json"
   },
   {
     "address": "0xc080f56504e0278828A403269DB945F6c6D6E014",
     "asset": "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Gauntlet eUSD Core",
-    "protocol": "Morpho",
-    "symbol": "gteUSDc"
+    "symbol": "gteUSDc",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xEbFA750279dEfa89b8D99bdd145a016F6292757b",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Gauntlet MKR Blended",
-    "protocol": "Morpho",
-    "symbol": "gtUSDCmkr"
+    "symbol": "gtUSDCmkr",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x67315dd969B8Cd3a3520C245837Bf71f54579C75",
     "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "LlamaRisk crvUSD Vault",
-    "protocol": "Morpho",
-    "symbol": "llama-crvUSD"
+    "symbol": "llama-crvUSD",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x4F460bb11cf958606C69A963B4A17f9DaEEea8b6",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "f(x) Protocol Morpho USDC",
-    "protocol": "Morpho",
-    "symbol": "fxUSDC"
+    "symbol": "fxUSDC",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x8eB67A509616cd6A7c1B3c8C21D48FF57df3d458",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Gauntlet USDC Core",
-    "protocol": "Morpho",
-    "symbol": "gtUSDCcore"
+    "symbol": "gtUSDCcore",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x4cA0E178c94f039d7F202E09d8d1a655Ed3fb6b6",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "LeadBlock USDC RWA",
-    "protocol": "Morpho",
-    "symbol": "USDC RWA"
+    "symbol": "USDC RWA",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x500331c9fF24D9d11aee6B07734Aa72343EA74a5",
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Gauntlet DAI Core",
-    "protocol": "Morpho",
-    "symbol": "gtDAIcore"
+    "symbol": "gtDAIcore",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xd63070114470f685b75B74D60EEc7c1113d33a3D",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Usual Boosted USDC",
-    "protocol": "Morpho",
-    "symbol": "USUALUSDC+"
+    "symbol": "USUALUSDC+",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xbEef047a543E45807105E51A8BBEFCc5950fcfBa",
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Steakhouse USDT",
-    "protocol": "Morpho",
-    "symbol": "steakUSDT"
+    "symbol": "steakUSDT",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x8CB3649114051cA5119141a34C200D65dc0Faa73",
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Gauntlet USDT Prime",
-    "protocol": "Morpho",
-    "symbol": "gtUSDT"
+    "symbol": "gtUSDT",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x9a8bC3B04b7f3D87cfC09ba407dCED575f2d61D8",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "MEV Capital wETH",
-    "protocol": "Morpho",
-    "symbol": "MCwETH"
+    "symbol": "MCwETH",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x4881Ef0BF6d2365D3dd6499ccd7532bcdBCE0658",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Gauntlet LRT Core",
-    "protocol": "Morpho",
-    "symbol": "gtLRTcore"
+    "symbol": "gtLRTcore",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xbEEF02e5E13584ab96848af90261f0C8Ee04722a",
     "asset": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Steakhouse PYUSD",
-    "protocol": "Morpho",
-    "symbol": "steakPYUSD"
+    "symbol": "steakPYUSD",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xdd0f28e19C1780eb6396170735D45153D261490d",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Gauntlet USDC Prime",
-    "protocol": "Morpho",
-    "symbol": "gtUSDC"
+    "symbol": "gtUSDC",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xBEEF01735c132Ada46AA9aA4c54623cAA92A64CB",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Steakhouse USDC",
-    "protocol": "Morpho",
-    "symbol": "steakUSDC"
+    "symbol": "steakUSDC",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xBE40491F3261Fd42724F1AEb465796eb11c06ddF",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Re7 FRAX",
-    "protocol": "Morpho",
-    "symbol": "Re7FRAX"
+    "symbol": "Re7FRAX",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x95EeF579155cd2C5510F312c8fA39208c3Be01a8",
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Re7 USDT",
-    "protocol": "Morpho",
-    "symbol": "Re7USDT"
+    "symbol": "Re7USDT",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x186514400e52270cef3D80e1c6F8d10A75d47344",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Flagship USDC",
-    "protocol": "Morpho",
-    "symbol": "bbUSDC"
+    "symbol": "bbUSDC",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x2C25f6C25770fFEC5959D34B94Bf898865e5D6b1",
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Flagship USDT",
-    "protocol": "Morpho",
-    "symbol": "bbUSDT"
+    "symbol": "bbUSDT",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x4Ff4186188f8406917293A9e01A1ca16d3cf9E59",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "SwissBorg Morpho USDC",
-    "protocol": "Morpho",
-    "symbol": "sbMorphoUSDC"
+    "symbol": "sbMorphoUSDC",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x125D41A6e5dbf455cD9Df8F80BCC6fd172D52Cc6",
     "asset": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Gauntlet USDA Core",
-    "protocol": "Morpho",
-    "symbol": "gtUSDAcore"
+    "symbol": "gtUSDAcore",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x89D80f5e9BC88d8021b352064ae73F0eAf79EBd8",
     "asset": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Re7 USDA",
-    "protocol": "Morpho",
-    "symbol": "Re7USDA"
+    "symbol": "Re7USDA",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x78Fc2c2eD1A4cDb5402365934aE5648aDAd094d0",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Re7 WETH",
-    "protocol": "Morpho",
-    "symbol": "Re7WETH"
+    "symbol": "Re7WETH",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xBEEf050ecd6a16c4e7bfFbB52Ebba7846C4b8cD4",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Steakhouse ETH",
-    "protocol": "Morpho",
-    "symbol": "steakETH"
+    "symbol": "steakETH",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x60d715515d4411f7F43e4206dc5d4a3677f0eC78",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Re7 USDC",
-    "protocol": "Morpho",
-    "symbol": "Re7USDC"
+    "symbol": "Re7USDC",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x2371e134e3455e0593363cBF89d3b6cf53740618",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Gauntlet WETH Prime",
-    "protocol": "Morpho",
-    "symbol": "gtWETH"
+    "symbol": "gtWETH",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xC21DB71648B18C5B9E038d88393C9b254cf8eaC8",
     "asset": "0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "EUR Real Yield",
-    "protocol": "Morpho",
-    "symbol": "ERY"
+    "symbol": "ERY",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x38989BBA00BDF8181F4082995b3DEAe96163aC5D",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Flagship ETH",
-    "protocol": "Morpho",
-    "symbol": "bbETH"
+    "symbol": "bbETH",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x443df5eEE3196e9b2Dd77CaBd3eA76C3dee8f9b2",
     "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Gauntlet WBTC Core",
-    "protocol": "Morpho",
-    "symbol": "gtWBTCc"
+    "symbol": "gtWBTCc",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xE0C98605f279e4D7946d25B75869c69802823763",
     "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Re7 WBTC",
-    "protocol": "Morpho",
-    "symbol": "Re7WBTC"
+    "symbol": "Re7WBTC",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x1B4cd53a1A8e5F50aB6320EF34E5fB4D3df7B6f6",
     "asset": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Gauntlet AUSD Core",
-    "protocol": "Morpho",
-    "symbol": "gtAUSDc"
+    "symbol": "gtAUSDc",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x1265a81d42d513Df40d0031f8f2e1346954d665a",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "MEV Capital Elixir USDC",
-    "protocol": "Morpho",
-    "symbol": "MC.eUSDC"
+    "symbol": "MC.eUSDC",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xbeEf094333AEdD535c130958c204E84f681FD9FA",
     "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Steakhouse WBTC",
-    "protocol": "Morpho",
-    "symbol": "steakWBTC"
+    "symbol": "steakWBTC",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0x43fD147d5319B8Cf39a6e57143684Efca9CF3613",
     "asset": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Re7 tBTC",
-    "protocol": "Morpho",
-    "symbol": "Re7tBTC"
+    "symbol": "Re7tBTC",
+    "protocol": "assets/protocols/morpho.json"
   },
   {
     "address": "0xfd6db5011b171B05E1Ea3b92f9EAcaEEb055e971",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/sommelier.png",
     "name": "Turbo STETH",
-    "protocol": "Sommelier",
-    "symbol": "TurboSTETH"
+    "symbol": "TurboSTETH",
+    "protocol": "assets/protocols/sommelier.json"
   },
   {
     "address": "0xb5b29320d2Dde5BA5BAFA1EbcD270052070483ec",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/sommelier.png",
     "name": "Real Yield ETH",
-    "protocol": "Sommelier",
-    "symbol": "YieldETH"
+    "symbol": "YieldETH",
+    "protocol": "assets/protocols/sommelier.json"
   },
   {
     "address": "0x0274a704a6D9129F90A62dDC6f6024b33EcDad36",
     "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/sommelier.png",
     "name": "Real Yield BTC",
-    "protocol": "Sommelier",
-    "symbol": "YieldBTC"
+    "symbol": "YieldBTC",
+    "protocol": "assets/protocols/sommelier.json"
   },
   {
     "address": "0xc7372Ab5dd315606dB799246E8aA112405abAeFf",
     "asset": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/sommelier.png",
     "name": "Turbo stETH (stETH Deposit)",
-    "protocol": "Sommelier",
-    "symbol": "TurboSTETH2"
+    "symbol": "TurboSTETH2",
+    "protocol": "assets/protocols/sommelier.json"
   },
   {
     "address": "0x97e6E0a40a3D02F12d1cEC30ebfbAE04e37C119E",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/sommelier.png",
     "name": "Real Yield USD",
-    "protocol": "Sommelier",
-    "symbol": "YieldUSD"
+    "symbol": "YieldUSD",
+    "protocol": "assets/protocols/sommelier.json"
   },
   {
     "address": "0x312CEf8839eDa74DeA9b1EEc10b345071cA3d6da",
     "asset": "0xB1F1ee126e9c96231Cc3d3fAD7C08b4cf873b1f1",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/beefy.png",
     "name": "WMoo BIFI",
-    "protocol": "Beefy",
-    "symbol": "wmooBIFI"
+    "symbol": "wmooBIFI",
+    "protocol": "assets/protocols/beefy.json"
   },
   {
     "address": "0x3CD57d49Aa87c3F7304412ecCD6eb79E25a31092",
     "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/beefy.png",
     "name": "WMoo Silo crvUSD",
-    "protocol": "Beefy",
-    "symbol": "wmooSilocrvUSD"
+    "symbol": "wmooSilocrvUSD",
+    "protocol": "assets/protocols/beefy.json"
   },
   {
     "address": "0xb5C6F5d1527F4147b25E046CD497b0D482B0b3Fa",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/beefy.png",
     "name": "WMoo Silo WETH (weETH Market)",
-    "protocol": "Beefy",
-    "symbol": "wmooSiloWETH"
+    "symbol": "wmooSiloWETH",
+    "protocol": "assets/protocols/beefy.json"
   },
   {
     "address": "0x6Ba82128a5D295368AD8Ecd704c6336DcD7A00e3",
     "asset": "0x101816545F6bd2b1076434B54383a1E633390A2E",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/beefy.png",
     "name": "WMoo Stargate ETH",
-    "protocol": "Beefy",
-    "symbol": "wmooStargateETH"
+    "symbol": "wmooStargateETH",
+    "protocol": "assets/protocols/beefy.json"
   },
   {
     "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
     "asset": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/origin.png",
     "name": "Wrapped OETH",
-    "protocol": "Origin",
-    "symbol": "WOETH"
+    "symbol": "WOETH",
+    "protocol": "assets/protocols/origin.json"
   },
   {
     "address": "0x0669091F451142b3228171aE6aD794cF98288124",
     "asset": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/sturdy.jpg",
     "name": "Sturdy PxETH/yearn curve StETH-PxETH LP silo",
-    "protocol": "Sturdy",
-    "symbol": "yspxETH"
+    "symbol": "yspxETH",
+    "protocol": "assets/protocols/sturdy.json"
   },
   {
     "address": "0x26fe402A57D52c8a323bb6e09f06489C8216aC88",
     "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/sturdy.jpg",
     "name": "Sturdy crvUSD/yean curve USDT-crvUSD LP silo",
-    "protocol": "Sturdy",
-    "symbol": "yscrvUSD"
+    "symbol": "yscrvUSD",
+    "protocol": "assets/protocols/sturdy.json"
   },
   {
     "address": "0x6311fF24fb15310eD3d2180D3d0507A21a8e5227",
     "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/sturdy.jpg",
     "name": "Sturdy crvUSD/yean curve USDC-crvUSD LP silo",
-    "protocol": "Sturdy",
-    "symbol": "yscrvUSD"
+    "symbol": "yscrvUSD",
+    "protocol": "assets/protocols/sturdy.json"
   },
   {
     "address": "0xFa68707be4b58FB9F10748E30e25A15113EdEE1D",
     "asset": "0x04C154b66CB340F3Ae24111CC767e0184Ed00Cc6",
     "decimals": 18,
-    "logoURI": "assets/img/vaults/mainnet/sturdy.jpg",
     "name": "Sturdy PxETH/ApxETH silo",
-    "protocol": "Sturdy",
-    "symbol": "yspxETH"
+    "symbol": "yspxETH",
+    "protocol": "assets/protocols/sturdy.json"
   }
 ]
