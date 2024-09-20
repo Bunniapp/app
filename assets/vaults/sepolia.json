@@ -86,7 +86,7 @@
     "decimals": 18,
     "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Morpho Spark DAI Vault",
-    "protocol": "Morpho Blue",
+    "protocol": "Morpho",
     "symbol": "MORPHO-SPDAI"
   },
   {
@@ -95,7 +95,7 @@
     "decimals": 6,
     "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Morpho USDC Core",
-    "protocol": "Morpho Blue",
+    "protocol": "Morpho",
     "symbol": "GTUSDCCORE"
   },
   {
@@ -104,7 +104,7 @@
     "decimals": 18,
     "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Morpho WETH Core",
-    "protocol": "Morpho Blue",
+    "protocol": "Morpho",
     "symbol": "GTWETHCORE"
   },
   {
@@ -113,7 +113,7 @@
     "decimals": 18,
     "logoURI": "assets/img/vaults/mainnet/morpho.png",
     "name": "Morpho Re7 WETH",
-    "protocol": "Morpho Blue",
+    "protocol": "Morpho",
     "symbol": "RE7WETH"
   },
   {
