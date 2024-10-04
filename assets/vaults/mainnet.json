@@ -37,7 +37,7 @@
     "decimals": 18,
     "name": "Savings Dai",
     "symbol": "sDAI",
-    "protocol": "assets/protocols/maker.json"
+    "protocol": "assets/protocols/sky.json"
   },
   {
     "address": "0xda00000035fef4082F78dEF6A8903bee419FbF8E",
