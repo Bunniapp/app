@@ -758,5 +758,149 @@
     "name": "Sturdy PxETH/ApxETH silo",
     "symbol": "yspxETH",
     "protocol": "assets/protocols/sturdy.json"
+  },
+  {
+    "address": "0x630488Ed575f3bb86E7993bbB5ab9152E7E35834",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 6,
+    "name": "ERC4626-Wrapped Aave v3 USDC",
+    "symbol": "waUSDC",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x0a18Cc85ab8A9e0F8eDe15799287509e327E8C9d",
+    "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "decimals": 6,
+    "name": "ERC4626-Wrapped Aave v3 USDT",
+    "symbol": "waUSDT",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xC97B90EF17a1c4E6f94908b29a67837923cace5A",
+    "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "decimals": 18,
+    "name": "ERC4626-Wrapped Aave v3 DAI",
+    "symbol": "waDAI",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xd220ec71550433df3Eaf5DE9cab85D4244B4cB35",
+    "asset": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
+    "decimals": 6,
+    "name": "ERC4626-Wrapped Aave v3 PYUSD",
+    "symbol": "waPYUSD",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x37e362E6b29D977ee6B61743770D65502c53f433",
+    "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
+    "decimals": 18,
+    "name": "ERC4626-Wrapped Aave v3 crvUSD",
+    "symbol": "wacrvUSD",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x47f531ADE42Dd6616faF6D6FE3e9e2627607Bae5",
+    "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
+    "decimals": 18,
+    "name": "ERC4626-Wrapped Aave v3 FRAX",
+    "symbol": "waFRAX",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xE2B71235a94DCA9C65DB4C8fc2A1318b850c27Bd",
+    "asset": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+    "decimals": 18,
+    "name": "ERC4626-Wrapped Aave v3 LUSD",
+    "symbol": "waLUSD",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xF7bbca87B3569712E0493d3486EA34696001572F",
+    "asset": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+    "decimals": 18,
+    "name": "ERC4626-Wrapped Aave v3 USDe",
+    "symbol": "waUSDe",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xaA3FA60B42DccDD0E9c94423ac80f3116864Ff98",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "name": "ERC4626-Wrapped Aave v3 WETH",
+    "symbol": "waWETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x5E594d51e1519F2FbB5996Eb5f2BB7ecBBFE28b9",
+    "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "decimals": 8,
+    "name": "ERC4626-Wrapped Aave v3 WBTC",
+    "symbol": "waWBTC",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xD60006721941dc33266ce3089E2BF9BB51757B4D",
+    "asset": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
+    "decimals": 18,
+    "name": "ERC4626-Wrapped Aave v3 RPL",
+    "symbol": "waRPL",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x70FA54d8e1039715aA361D6D68daA7b03C3c5E9e",
+    "asset": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+    "decimals": 18,
+    "name": "ERC4626-Wrapped Aave v3 USDS",
+    "symbol": "waUSDS",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x19D7357Fb24DD1C5D57Ba4e0b1CB75b305C44997",
+    "asset": "0xae78736Cd615f374D3085123A210448E74Fc6393",
+    "decimals": 18,
+    "name": "ERC4626-Wrapped Aave v3 rETH",
+    "symbol": "warETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xcBe2CCfB987Dfb26E3c957b0ef65DadA877D6e34",
+    "asset": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
+    "decimals": 18,
+    "name": "ERC4626-Wrapped Aave v3 weETH",
+    "symbol": "waweETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x7C48cDE915e4100Baaa20739DdEb879b2573Cb38",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 6,
+    "name": "ERC4626-Wrapped Spark USDC",
+    "symbol": "waUSDC",
+    "protocol": "assets/protocols/spark.json"
+  },
+  {
+    "address": "0x327F3A91b9A71fd4368e689C2AB66fcF5dF869b8",
+    "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "decimals": 6,
+    "name": "ERC4626-Wrapped Spark USDT",
+    "symbol": "waUSDT",
+    "protocol": "assets/protocols/spark.json"
+  },
+  {
+    "address": "0x4b9Eb7b9ED6bEFa203Bd5F46022071f7899d1898",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "name": "ERC4626-Wrapped Spark WETH",
+    "symbol": "waWETH",
+    "protocol": "assets/protocols/spark.json"
+  },
+  {
+    "address": "0x5Bbb8E49C09285182b358C8153b009a5E4e81d8A",
+    "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "decimals": 8,
+    "name": "ERC4626-Wrapped Spark WBTC",
+    "symbol": "waWBTC",
+    "protocol": "assets/protocols/spark.json"
   }
 ]

@@ -401,5 +401,25 @@
     "website": "https://dinero.xyz",
     "twitter": "https://x.com/dinero_xyz",
     "color": "rgb(9, 96, 124)"
+  },
+  {
+    "name": "USDS Stablecoin",
+    "address": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
+    "symbol": "USDS",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xdC035D45d973E3EC169d2276DDab16f1e407384F.svg",
+    "website": "https://sky.money",
+    "twitter": "https://x.com/SkyEcosystem",
+    "color": "rgb(254, 152, 84)"
+  },
+  {
+    "name": "USDe",
+    "address": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
+    "symbol": "USDe",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x4c9EDD5852cd905f086C759E8383e09bff1E68B3.svg",
+    "website": "https://ethena.fi",
+    "twitter": "https://x.com/ethena_labs",
+    "color": "rgb(255, 255, 255)"
   }
 ]
