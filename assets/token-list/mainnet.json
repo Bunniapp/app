@@ -234,37 +234,11 @@
     "twitter": "https://twitter.com/fraxfinance"
   },
   {
-    "address": "0x9232a548DD9E81BaC65500b5e0d918F8Ba93675C",
-    "name": "Balancer 20 WETH 80 LIT",
-    "symbol": "BAL-20WETH-80LIT",
-    "decimals": 18
-  },
-  {
     "address": "0xfd0205066521550D7d7AB19DA8F72bb004b4C341",
     "name": "Liquidity Incentive Token",
     "symbol": "LIT",
     "decimals": 18,
     "logoURI": "assets/img/tokens/mainnet/0xfd0205066521550D7d7AB19DA8F72bb004b4C341.png"
-  },
-  {
-    "address": "0x627fee87d0D9D2c55098A06ac805Db8F98B158Aa",
-    "name": "LIT Call Option Token",
-    "symbol": "oLIT",
-    "decimals": 18,
-    "logoURI": "assets/img/tokens/mainnet/0x627fee87d0D9D2c55098A06ac805Db8F98B158Aa.png"
-  },
-  {
-    "address": "0x24F21b1864d4747a5c99045c96dA11DBFDa378f7",
-    "name": "xoLIT",
-    "symbol": "xoLIT",
-    "decimals": 18
-  },
-  {
-    "address": "0xf17d23136B4FeAd139f54fB766c8795faae09660",
-    "name": "Timeless Voting Escrow",
-    "symbol": "veLIT",
-    "decimals": 18,
-    "logoURI": "assets/img/tokens/mainnet/0xf17d23136B4FeAd139f54fB766c8795faae09660.png"
   },
   {
     "address": "0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0",
