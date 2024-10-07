@@ -64,7 +64,7 @@
     "address": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "assets/img/tokens/mainnet/0x853d955aCEf822Db058eb8505911ED77F175b99e.png",
+    "logoURI": "assets/img/tokens/mainnet/0x853d955aCEf822Db058eb8505911ED77F175b99e.svg",
     "website": "https://frax.finance",
     "twitter": "https://twitter.com/fraxfinance",
     "color": "rgb(255, 255, 255)"
@@ -229,7 +229,7 @@
     "name": "Frax Ether",
     "symbol": "frxETH",
     "decimals": 18,
-    "logoURI": "assets/img/tokens/mainnet/0x5E8422345238F34275888049021821E8E08CAa1f.png",
+    "logoURI": "assets/img/tokens/mainnet/0x5E8422345238F34275888049021821E8E08CAa1f.svg",
     "website": "https://frax.finance",
     "twitter": "https://twitter.com/fraxfinance"
   },
@@ -245,7 +245,25 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "assets/img/tokens/mainnet/0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0.png",
+    "logoURI": "assets/img/tokens/mainnet/0x3432B6A60D23Ca0dFCa7761B7ab56459D9C964D0.svg",
+    "website": "https://frax.finance",
+    "twitter": "https://twitter.com/fraxfinance"
+  },
+  {
+    "address": "0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E",
+    "name": "Frax Price Index",
+    "symbol": "FPI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x5Ca135cB8527d76e932f34B5145575F9d8cbE08E.svg",
+    "website": "https://frax.finance",
+    "twitter": "https://twitter.com/fraxfinance"
+  },
+  {
+    "address": "0xc2544A32872A91F4A553b404C6950e89De901fdb",
+    "name": "Frax Price Index Share",
+    "symbol": "FPIS",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xc2544A32872A91F4A553b404C6950e89De901fdb.svg",
     "website": "https://frax.finance",
     "twitter": "https://twitter.com/fraxfinance"
   },
@@ -282,6 +300,7 @@
     "name": "Inverse DAO",
     "symbol": "INV",
     "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68.svg",
     "website": "https://www.inverse.finance",
     "twitter": "https://twitter.com/InverseFinance"
   },
@@ -319,19 +338,26 @@
     "name": "Electronic Dollar",
     "address": "0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F",
     "symbol": "eUSD",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xA0d69E286B938e21CBf7E51D71F6A4c8918f482F.svg",
+    "website": "https://reserve.org",
+    "twitter": "https://x.com/reserveprotocol"
   },
   {
     "name": "USDA",
     "address": "0x0000206329b97DB379d5E1Bf586BbDB969C63274",
     "symbol": "USDA",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x0000206329b97DB379d5E1Bf586BbDB969C63274.svg",
+    "website": "https://angle.money",
+    "twitter": "https://x.com/AngleProtocol"
   },
   {
     "name": "Monerium EUR emoney",
     "address": "0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f",
     "symbol": "EURe",
     "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x3231Cb76718CDeF2155FC47b5286d82e6eDA273f.webp",
     "website": "https://monerium.com",
     "twitter": "https://x.com/monerium"
   },
@@ -339,13 +365,17 @@
     "name": "AUSD",
     "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
     "symbol": "AUSD",
-    "decimals": 6
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a.svg",
+    "website": "https://www.agora.finance",
+    "twitter": "https://x.com/withAUSD"
   },
   {
     "name": "tBTC v2",
     "address": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
     "symbol": "tBTC",
     "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x18084fbA666a33d37592fA2633fD49a74DD93a88.webp",
     "website": "https://tbtc.network"
   },
   {
@@ -363,6 +393,7 @@
     "address": "0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86",
     "symbol": "OUSD",
     "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x2A8e1E676Ec238d8A992307B495b45B3fEAa5e86.svg",
     "website": "https://www.originprotocol.com",
     "twitter": "https://x.com/originprotocol"
   },
@@ -401,6 +432,7 @@
     "address": "0xac3E018457B222d93114458476f3E3416Abbe38F",
     "symbol": "sfrxETH",
     "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xac3E018457B222d93114458476f3E3416Abbe38F.svg",
     "website": "https://frax.finance",
     "twitter": "https://twitter.com/fraxfinance"
   },
@@ -408,27 +440,35 @@
     "name": "Beefy",
     "address": "0xB1F1ee126e9c96231Cc3d3fAD7C08b4cf873b1f1",
     "symbol": "BIFI",
-    "decimals": 18
-  },
-  {
-    "name": "Stargate Ether Vault-LP",
-    "address": "0x101816545F6bd2b1076434B54383a1E633390A2E",
-    "symbol": "S*SGETH",
-    "decimals": 18
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xB1F1ee126e9c96231Cc3d3fAD7C08b4cf873b1f1.svg",
+    "website": "https://beefy.com",
+    "twitter": "https://x.com/beefyfinance"
   },
   {
     "name": "Rocket Pool",
     "address": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
     "symbol": "RPL",
     "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xD33526068D116cE69F19A9ee46F0bd304F21A51f.png",
     "website": "https://rocketpool.net",
     "twitter": "https://x.com/Rocket_Pool"
+  },
+  {
+    "name": "ether.fi ETH",
+    "address": "0x35fA164735182de50811E8e2E824cFb9B6118ac2",
+    "symbol": "eETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x35fA164735182de50811E8e2E824cFb9B6118ac2.svg",
+    "website": "https://www.ether.fi",
+    "twitter": "https://x.com/ether_fi"
   },
   {
     "name": "Wrapped eETH",
     "address": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
     "symbol": "weETH",
     "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee.svg",
     "website": "https://www.ether.fi",
     "twitter": "https://x.com/ether_fi"
   }

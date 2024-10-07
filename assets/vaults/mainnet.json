@@ -712,14 +712,6 @@
     "protocol": "assets/protocols/beefy.json"
   },
   {
-    "address": "0x6Ba82128a5D295368AD8Ecd704c6336DcD7A00e3",
-    "asset": "0x101816545F6bd2b1076434B54383a1E633390A2E",
-    "decimals": 18,
-    "name": "WMoo Stargate ETH",
-    "symbol": "wmooStargateETH",
-    "protocol": "assets/protocols/beefy.json"
-  },
-  {
     "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
     "asset": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
     "decimals": 18,
