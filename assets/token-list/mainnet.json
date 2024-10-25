@@ -471,5 +471,24 @@
     "logoURI": "assets/img/tokens/mainnet/0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee.svg",
     "website": "https://www.ether.fi",
     "twitter": "https://x.com/ether_fi"
+  },
+  {
+    "name": "WrappedM by M^0",
+    "address": "0x437cc33344a0B27A429f795ff6B469C72698B291",
+    "symbol": "wM",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0x437cc33344a0B27A429f795ff6B469C72698B291.png",
+    "website": "https://www.m0.org",
+    "twitter": "https://x.com/m0foundation"
+  },
+  {
+    "name": "Coinbase Wrapped BTC",
+    "address": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "symbol": "cbBTC",
+    "decimals": 8,
+    "logoURI": "assets/img/tokens/mainnet/0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf.webp",
+    "website": "https://www.coinbase.com/cbbtc",
+    "twitter": "https://x.com/coinbase",
+    "color": "rgb(1, 83, 255)"
   }
 ]
