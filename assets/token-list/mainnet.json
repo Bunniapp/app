@@ -120,6 +120,15 @@
     "color": "rgb(47, 67, 237)"
   },
   {
+    "address": "0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0",
+    "name": "rswETH",
+    "symbol": "rswETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xFAe103DC9cf190eD75350761e95403b7b8aFa6c0.svg",
+    "website": "https://www.swellnetwork.io",
+    "twitter": "https://twitter.com/swellnetworkio"
+  },
+  {
     "address": "0xBe9895146f7AF43049ca1c1AE358B0541Ea49704",
     "name": "Coinbase Wrapped Staked ETH",
     "symbol": "cbETH",
@@ -490,5 +499,51 @@
     "website": "https://www.coinbase.com/cbbtc",
     "twitter": "https://x.com/coinbase",
     "color": "rgb(1, 83, 255)"
+  },
+  {
+    "name": "ynETH",
+    "address": "0x09db87A538BD693E9d08544577d5cCfAA6373A48",
+    "symbol": "ynETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x09db87A538BD693E9d08544577d5cCfAA6373A48.svg",
+    "website": "https://www.yieldnest.finance",
+    "twitter": "https://x.com/YieldNestFi",
+    "color": "rgb(232, 199, 135)"
+  },
+  {
+    "name": "Renzo Restaked ETH",
+    "address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
+    "symbol": "ezETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xbf5495Efe5DB9ce00f80364C8B423567e58d2110.png",
+    "website": "https://www.renzoprotocol.com",
+    "twitter": "https://x.com/RenzoProtocol"
+  },
+  {
+    "name": "Renzo Restaked LST",
+    "address": "0x8c9532a60E0E7C6BbD2B2c1303F63aCE1c3E9811",
+    "symbol": "pzETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x8c9532a60E0E7C6BbD2B2c1303F63aCE1c3E9811.png",
+    "website": "https://www.renzoprotocol.com",
+    "twitter": "https://x.com/RenzoProtocol"
+  },
+  {
+    "name": "pufETH",
+    "address": "0xd9a442856c234a39a81a089c06451ebaa4306a72",
+    "symbol": "pufETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xd9a442856c234a39a81a089c06451ebaa4306a72.png",
+    "website": "https://www.puffer.fi",
+    "twitter": "https://x.com/Puffer_Finance"
+  },
+  {
+    "name": "rsETH",
+    "address": "0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7",
+    "symbol": "rsETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7.png",
+    "website": "https://kelpdao.xyz/restake",
+    "twitter": "https://x.com/KelpDAO"
   }
 ]
