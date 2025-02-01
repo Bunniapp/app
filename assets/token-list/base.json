@@ -253,5 +253,12 @@
     "website": "https://resolv.xyz",
     "twitter": "https://x.com/ResolvLabs",
     "color": "rgb(55, 118, 154)"
+  },
+  {
+    "name": "ask the Sandwich by Virtuals",
+    "address": "0xe56b9f83a7cbe491f248490264066552d8a47e58",
+    "symbol": "SANWCH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/base/0xe56b9f83a7cbe491f248490264066552d8a47e58.png"
   }
 ]
