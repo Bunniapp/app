@@ -64,7 +64,7 @@
     "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "assets/img/tokens/mainnet/0x853d955aCEf822Db058eb8505911ED77F175b99e.png",
+    "logoURI": "assets/img/tokens/mainnet/0x853d955aCEf822Db058eb8505911ED77F175b99e.svg",
     "website": "https://frax.finance",
     "twitter": "https://twitter.com/fraxfinance"
   },
@@ -132,16 +132,13 @@
     "twitter": "https://twitter.com/arbitrum"
   },
   {
-    "address": "0x0ffB33812FA5cd8bCE181Db3FD76E11935105B12",
-    "name": "LIT Call Option Token",
-    "symbol": "oLIT",
+    "address": "0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef",
+    "name": "USDX",
+    "symbol": "USDX",
     "decimals": 18,
-    "logoURI": "assets/img/tokens/mainnet/0x627fee87d0D9D2c55098A06ac805Db8F98B158Aa.png"
-  },
-  {
-    "address": "0x24F21b1864d4747a5c99045c96dA11DBFDa378f7",
-    "name": "xoLIT",
-    "symbol": "xoLIT",
-    "decimals": 18
+    "logoURI": "assets/img/tokens/bsc/0xf3527ef8dE265eAa3716FB312c12847bFBA66Cef.svg",
+    "website": "https://usdx.money",
+    "twitter": "https://x.com/usdx_money",
+    "color": "rgb(31, 122, 86)"
   }
 ]

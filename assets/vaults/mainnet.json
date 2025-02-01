@@ -3,7 +3,7 @@
     "address": "0xbcb91e0B4Ad56b0d41e0C168E3090361c0039abC",
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v2 DAI",
+    "name": "Aave v2 DAI",
     "symbol": "wa2DAI",
     "protocol": "assets/protocols/aave.json"
   },
@@ -11,7 +11,7 @@
     "address": "0xc21F107933612eCF5677894d45fc060767479A9b",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v2 WETH",
+    "name": "Aave v2 WETH",
     "symbol": "wa2WETH",
     "protocol": "assets/protocols/aave.json"
   },
@@ -19,7 +19,7 @@
     "address": "0x6D088fe2500Da41D7fA7ab39c76a506D7c91f53b",
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Compound DAI",
+    "name": "Compound DAI",
     "symbol": "wcDAI",
     "protocol": "assets/protocols/compound.json"
   },
@@ -27,7 +27,7 @@
     "address": "0xF9A98A9452485ed55cd3Ce5260C2b71c9807b11a",
     "asset": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Lido stETH",
+    "name": "Lido stETH",
     "symbol": "wlstETH",
     "protocol": "assets/protocols/lido.json"
   },
@@ -93,6 +93,22 @@
     "decimals": 18,
     "name": "crvUSD v3",
     "symbol": "dcrvUSDV3",
+    "protocol": "assets/protocols/gearbox.json"
+  },
+  {
+    "address": "0x31426271449F60d37Cc5C9AEf7bD12aF3BdC7A94",
+    "asset": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
+    "decimals": 18,
+    "name": "Trade DOLA v3",
+    "symbol": "dDOLAV3",
+    "protocol": "assets/protocols/gearbox.json"
+  },
+  {
+    "address": "0x7354EC6E852108411e681D13E11185c3a2567981",
+    "asset": "0x18084fbA666a33d37592fA2633fD49a74DD93a88",
+    "decimals": 18,
+    "name": "Trade tBTC v3",
+    "symbol": "dtBTCV3",
     "protocol": "assets/protocols/gearbox.json"
   },
   {
@@ -747,7 +763,7 @@
     "address": "0x630488Ed575f3bb86E7993bbB5ab9152E7E35834",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 6,
-    "name": "ERC4626-Wrapped Aave v3 USDC",
+    "name": "Aave v3 USDC",
     "symbol": "waUSDC",
     "protocol": "assets/protocols/aave.json"
   },
@@ -755,7 +771,7 @@
     "address": "0x0a18Cc85ab8A9e0F8eDe15799287509e327E8C9d",
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "decimals": 6,
-    "name": "ERC4626-Wrapped Aave v3 USDT",
+    "name": "Aave v3 USDT",
     "symbol": "waUSDT",
     "protocol": "assets/protocols/aave.json"
   },
@@ -763,7 +779,7 @@
     "address": "0xC97B90EF17a1c4E6f94908b29a67837923cace5A",
     "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v3 DAI",
+    "name": "Aave v3 DAI",
     "symbol": "waDAI",
     "protocol": "assets/protocols/aave.json"
   },
@@ -771,7 +787,7 @@
     "address": "0xd220ec71550433df3Eaf5DE9cab85D4244B4cB35",
     "asset": "0x6c3ea9036406852006290770BEdFcAbA0e23A0e8",
     "decimals": 6,
-    "name": "ERC4626-Wrapped Aave v3 PYUSD",
+    "name": "Aave v3 PYUSD",
     "symbol": "waPYUSD",
     "protocol": "assets/protocols/aave.json"
   },
@@ -779,7 +795,7 @@
     "address": "0x37e362E6b29D977ee6B61743770D65502c53f433",
     "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v3 crvUSD",
+    "name": "Aave v3 crvUSD",
     "symbol": "wacrvUSD",
     "protocol": "assets/protocols/aave.json"
   },
@@ -787,7 +803,7 @@
     "address": "0x47f531ADE42Dd6616faF6D6FE3e9e2627607Bae5",
     "asset": "0x853d955aCEf822Db058eb8505911ED77F175b99e",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v3 FRAX",
+    "name": "Aave v3 FRAX",
     "symbol": "waFRAX",
     "protocol": "assets/protocols/aave.json"
   },
@@ -795,7 +811,7 @@
     "address": "0xE2B71235a94DCA9C65DB4C8fc2A1318b850c27Bd",
     "asset": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v3 LUSD",
+    "name": "Aave v3 LUSD",
     "symbol": "waLUSD",
     "protocol": "assets/protocols/aave.json"
   },
@@ -803,7 +819,7 @@
     "address": "0xF7bbca87B3569712E0493d3486EA34696001572F",
     "asset": "0x4c9EDD5852cd905f086C759E8383e09bff1E68B3",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v3 USDe",
+    "name": "Aave v3 USDe",
     "symbol": "waUSDe",
     "protocol": "assets/protocols/aave.json"
   },
@@ -811,7 +827,7 @@
     "address": "0xaA3FA60B42DccDD0E9c94423ac80f3116864Ff98",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v3 WETH",
+    "name": "Aave v3 WETH",
     "symbol": "waWETH",
     "protocol": "assets/protocols/aave.json"
   },
@@ -819,7 +835,7 @@
     "address": "0x5E594d51e1519F2FbB5996Eb5f2BB7ecBBFE28b9",
     "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "decimals": 8,
-    "name": "ERC4626-Wrapped Aave v3 WBTC",
+    "name": "Aave v3 WBTC",
     "symbol": "waWBTC",
     "protocol": "assets/protocols/aave.json"
   },
@@ -827,7 +843,7 @@
     "address": "0xD60006721941dc33266ce3089E2BF9BB51757B4D",
     "asset": "0xD33526068D116cE69F19A9ee46F0bd304F21A51f",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v3 RPL",
+    "name": "Aave v3 RPL",
     "symbol": "waRPL",
     "protocol": "assets/protocols/aave.json"
   },
@@ -835,7 +851,7 @@
     "address": "0x70FA54d8e1039715aA361D6D68daA7b03C3c5E9e",
     "asset": "0xdC035D45d973E3EC169d2276DDab16f1e407384F",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v3 USDS",
+    "name": "Aave v3 USDS",
     "symbol": "waUSDS",
     "protocol": "assets/protocols/aave.json"
   },
@@ -843,7 +859,7 @@
     "address": "0x19D7357Fb24DD1C5D57Ba4e0b1CB75b305C44997",
     "asset": "0xae78736Cd615f374D3085123A210448E74Fc6393",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v3 rETH",
+    "name": "Aave v3 rETH",
     "symbol": "warETH",
     "protocol": "assets/protocols/aave.json"
   },
@@ -851,15 +867,23 @@
     "address": "0xcBe2CCfB987Dfb26E3c957b0ef65DadA877D6e34",
     "asset": "0xCd5fE23C85820F7B72D0926FC9b05b43E359b7ee",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Aave v3 weETH",
+    "name": "Aave v3 weETH",
     "symbol": "waweETH",
     "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x58D6EB3DC2DF6F88Ec827A1C960b5d91C2c64806",
+    "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "decimals": 18,
+    "name": "Spark DAI",
+    "symbol": "waDAI",
+    "protocol": "assets/protocols/spark.json"
   },
   {
     "address": "0x7C48cDE915e4100Baaa20739DdEb879b2573Cb38",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 6,
-    "name": "ERC4626-Wrapped Spark USDC",
+    "name": "Spark USDC",
     "symbol": "waUSDC",
     "protocol": "assets/protocols/spark.json"
   },
@@ -867,7 +891,7 @@
     "address": "0x327F3A91b9A71fd4368e689C2AB66fcF5dF869b8",
     "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
     "decimals": 6,
-    "name": "ERC4626-Wrapped Spark USDT",
+    "name": "Spark USDT",
     "symbol": "waUSDT",
     "protocol": "assets/protocols/spark.json"
   },
@@ -875,7 +899,7 @@
     "address": "0x4b9Eb7b9ED6bEFa203Bd5F46022071f7899d1898",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
-    "name": "ERC4626-Wrapped Spark WETH",
+    "name": "Spark WETH",
     "symbol": "waWETH",
     "protocol": "assets/protocols/spark.json"
   },
@@ -883,7 +907,7 @@
     "address": "0x5Bbb8E49C09285182b358C8153b009a5E4e81d8A",
     "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
     "decimals": 8,
-    "name": "ERC4626-Wrapped Spark WBTC",
+    "name": "Spark WBTC",
     "symbol": "waWBTC",
     "protocol": "assets/protocols/spark.json"
   },
@@ -920,6 +944,30 @@
     "protocol": "assets/protocols/euler.json"
   },
   {
+    "address": "0x998D761eC1BAdaCeb064624cc3A1d37A46C88bA4",
+    "asset": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "decimals": 8,
+    "name": "Euler Prime WBTC",
+    "symbol": "eWBTC-3",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x056f3a2E41d2778D3a0c0714439c53af2987718E",
+    "asset": "0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf",
+    "decimals": 8,
+    "name": "Euler Prime cbBTC",
+    "symbol": "ecbBTC-3",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0xbC35161043EE2D74816d421EfD6a45fDa73B050A",
+    "asset": "0x8236a87084f8B84306f72007F36F2618A5634494",
+    "decimals": 8,
+    "name": "Euler Prime LBTC",
+    "symbol": "eLBTC-2",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
     "address": "0xea0C048c728578b1510EBDF9b692E8936D6Fbc90",
     "asset": "0x437cc33344a0B27A429f795ff6B469C72698B291",
     "decimals": 6,
@@ -950,5 +998,29 @@
     "name": "Gauntlet cbBTC Core",
     "symbol": "gtcbBTCc",
     "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0xb45ad160634c528Cc3D2926d9807104FA3157305",
+    "asset": "0x865377367054516e17014CcdED1e7d814EDC9ce4",
+    "decimals": 18,
+    "name": "Staked Dola",
+    "symbol": "sDOLA",
+    "protocol": "assets/protocols/inverse.json"
+  },
+  {
+    "address": "0x04eD8F283E1aaC133d28004B06Ad9cc90C88b606",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "name": "Aave v3 WETH (Prime Instance)",
+    "symbol": "waWETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x7171C5829aD6cFd8E51E66b8151A43174EbD0e65",
+    "asset": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+    "decimals": 18,
+    "name": "Aave v3 wstETH (Prime Instance)",
+    "symbol": "wawstETH",
+    "protocol": "assets/protocols/aave.json"
   }
 ]

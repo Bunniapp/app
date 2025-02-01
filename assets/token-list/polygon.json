@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Polygon",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "POL",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/polygon/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://polygon.technology",
+    "twitter": "https://x.com/0xPolygon",
+    "color": "rgb(107, 0, 246)"
+  },
+  {
+    "name": "Wrapped POL",
+    "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "symbol": "WPOL",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/polygon/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270.svg",
+    "website": "https://polygon.technology",
+    "twitter": "https://x.com/0xPolygon",
+    "color": "rgb(255, 255, 255)"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg",
+    "website": "https://tether.to",
+    "twitter": "https://twitter.com/Tether_to",
+    "color": "rgb(39, 161, 122)",
+    "customABI": "USDT"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+    "website": "https://www.circle.com",
+    "twitter": "https://twitter.com/circle",
+    "color": "rgb(39, 116, 202)"
+  },
+  {
+    "name": "Bridged USDC",
+    "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "symbol": "USDC.e",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+    "website": "https://www.circle.com",
+    "twitter": "https://twitter.com/circle",
+    "color": "rgb(39, 116, 202)"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(241, 244, 247)"
+  },
+  {
+    "name": "Wrapped BTC",
+    "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "assets/img/tokens/mainnet/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.png",
+    "website": "https://wbtc.network",
+    "twitter": "https://twitter.com/WrappedBTC",
+    "color": "rgb(240, 145, 65)"
+  },
+  {
+    "address": "0x03b54A6e9a984069379fae1a4fC4dBAE93B3bCCD",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0.png",
+    "website": "https://lido.fi",
+    "twitter": "https://twitter.com/LidoFinance",
+    "color": "rgb(3, 163, 255)"
+  },
+  {
+    "name": "Dai Stablecoin",
+    "address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x6B175474E89094C44Da98b954EedeAC495271d0F.png",
+    "website": "https://makerdao.com",
+    "twitter": "https://twitter.com/MakerDAO",
+    "color": "rgb(245, 172, 55)"
+  }
+]

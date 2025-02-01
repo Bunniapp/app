@@ -1,0 +1,53 @@
+[
+  {
+    "name": "BNB",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bsc/0x0000000000000000000000000000000000000000.png",
+    "website": "https://www.bnbchain.org",
+    "twitter": "https://x.com/BNBChain",
+    "color": "rgb(240, 185, 11)"
+  },
+  {
+    "name": "Wrapped BNB",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "symbol": "WBNB",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bsc/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+    "website": "https://www.bnbchain.org",
+    "twitter": "https://x.com/BNBChain",
+    "color": "rgb(240, 185, 11)"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x55d398326f99059fF775485246999027B3197955",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg",
+    "website": "https://tether.to",
+    "twitter": "https://twitter.com/Tether_to",
+    "color": "rgb(39, 161, 122)",
+    "customABI": "USDT"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+    "website": "https://www.circle.com",
+    "twitter": "https://twitter.com/circle",
+    "color": "rgb(39, 116, 202)"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(241, 244, 247)"
+  }
+]

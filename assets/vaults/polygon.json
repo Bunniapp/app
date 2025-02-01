@@ -1,0 +1,58 @@
+[
+  {
+    "address": "0xF4D370947098a4eA77ba045e5b1f1cA5d79D9bEA",
+    "asset": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+    "decimals": 18,
+    "name": "Aave v3 WETH",
+    "symbol": "waWETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x5FE6d02881597f4b95aAa5FD0BE5926355392F04",
+    "asset": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+    "decimals": 18,
+    "name": "Aave v3 WPOL",
+    "symbol": "waWPOL",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xE6Bd3013852d56251728D6379c9d4E7D1521f839",
+    "asset": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+    "decimals": 8,
+    "name": "Aave v3 WBTC",
+    "symbol": "waWBTC",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x6995DD5cb12B0bF5C6d841144f9fE7ebbc1B3383",
+    "asset": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+    "decimals": 6,
+    "name": "Aave v3 USDT",
+    "symbol": "waUSDT",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xdaA4EB3AA0940b45da149fe1E29Fe9F859Bfc972",
+    "asset": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+    "decimals": 18,
+    "name": "Aave v3 DAI",
+    "symbol": "waDAI",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x329f39D6901086f1E2164Ef13a3DD307DECB8EC5",
+    "asset": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+    "decimals": 6,
+    "name": "Aave v3 USDC.e",
+    "symbol": "waUSDCe",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xC6D7CEeEaaF9290F64FbD87702583D1a6148A164",
+    "asset": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
+    "decimals": 6,
+    "name": "Aave v3 USDC",
+    "symbol": "waUSDC",
+    "protocol": "assets/protocols/aave.json"
+  }
+]

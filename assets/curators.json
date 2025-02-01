@@ -1,19 +1,10 @@
 [
   {
-    "name": "Bunni Engineering Unit",
+    "name": "Bunni DAO",
     "addresses": [
-      "0xCEf852AeAbc2eaB4f07150C6Ef25a3DeFdFe45EF",
       "0x1bfD64aB61EACf714B2Aa37347057203f3AcA71f",
       "0xAfD5f60aA8eb4F488eAA0eF98c1C5B0645D9A0A0",
       "0x5f350bF5feE8e254D6077f8661E9C7B83a30364e",
-      "0xfBe09B7A6C6cc3A72B4CA41cdD9c88AC62bb7937",
-      "0x52B7840b735D518d3898dE30a5FFd8550e62B660"
-    ],
-    "referrer": 123
-  },
-  {
-    "name": "Bunni Growth Unit",
-    "addresses": [
       "0xe7Edf25702f5EE446f55Fe21c579F9018f3d5Bc4"
     ]
   }

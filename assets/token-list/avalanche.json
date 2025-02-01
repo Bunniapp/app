@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Avalanche",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/avalanche/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://www.avax.network",
+    "twitter": "https://x.com/avax",
+    "color": "rgb(255, 57, 74)"
+  },
+  {
+    "name": "Wrapped AVAX",
+    "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "symbol": "WAVAX",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/avalanche/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://www.avax.network",
+    "twitter": "https://x.com/avax",
+    "color": "rgb(255, 57, 74)"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg",
+    "website": "https://tether.to",
+    "twitter": "https://twitter.com/Tether_to",
+    "color": "rgb(39, 161, 122)",
+    "customABI": "USDT"
+  },
+  {
+    "name": "USD Coin",
+    "address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
+    "website": "https://www.circle.com",
+    "twitter": "https://twitter.com/circle",
+    "color": "rgb(39, 116, 202)"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "symbol": "WETH.e",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(241, 244, 247)"
+  },
+  {
+    "name": "Bitcoin",
+    "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "symbol": "BTC.b",
+    "decimals": 8,
+    "logoURI": "assets/img/tokens/avalanche/0x152b9d0FdC40C096757F570A51E494bd4b943E50.svg",
+    "website": "https://bitcoinbridge.network",
+    "twitter": "https://x.com/borderlessbtcb"
+  }
+]

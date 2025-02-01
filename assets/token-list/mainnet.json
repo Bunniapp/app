@@ -47,7 +47,8 @@
     "logoURI": "assets/img/tokens/mainnet/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg",
     "website": "https://tether.to",
     "twitter": "https://twitter.com/Tether_to",
-    "color": "rgb(39, 161, 122)"
+    "color": "rgb(39, 161, 122)",
+    "customABI": "USDT"
   },
   {
     "name": "USD Coin",
@@ -296,15 +297,6 @@
     "twitter": "https://twitter.com/redactedcartel"
   },
   {
-    "address": "0xD82fd4D6D62f89A1E50b1db69AD19932314aa408",
-    "name": "Liquis",
-    "symbol": "LIQ",
-    "decimals": 18,
-    "logoURI": "assets/img/tokens/mainnet/0xD82fd4D6D62f89A1E50b1db69AD19932314aa408.webp",
-    "website": "https://www.liquis.app",
-    "twitter": "https://twitter.com/liquisfi"
-  },
-  {
     "address": "0x41D5D79431A913C4aE7d69a668ecdfE5fF9DFB68",
     "name": "Inverse DAO",
     "symbol": "INV",
@@ -545,5 +537,52 @@
     "logoURI": "assets/img/tokens/mainnet/0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7.png",
     "website": "https://kelpdao.xyz/restake",
     "twitter": "https://x.com/KelpDAO"
+  },
+  {
+    "name": "Bunni",
+    "address": "0x000000C396558ffbAB5Ea628f39658Bdf61345b3",
+    "symbol": "BUNNI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bunni.png",
+    "website": "https://bunni.xyz",
+    "twitter": "https://x.com/bunni_xyz",
+    "color": "rgb(99, 102, 241)"
+  },
+  {
+    "name": "Bunni Voting Escrow",
+    "address": "0x00000042877f4a1cC0693383ebdAc7c0e0A1bf77",
+    "symbol": "veBUNNI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/vebunni.png",
+    "website": "https://bunni.xyz",
+    "twitter": "https://x.com/bunni_xyz",
+    "color": "rgb(99, 102, 241)"
+  },
+  {
+    "name": "Lombard Staked Bitcoin",
+    "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
+    "symbol": "LBTC",
+    "decimals": 8,
+    "logoURI": "assets/img/tokens/mainnet/0x8236a87084f8B84306f72007F36F2618A5634494.svg",
+    "website": "https://www.lombard.finance",
+    "twitter": "https://x.com/lombard_finance"
+  },
+  {
+    "name": "Morpho Token",
+    "address": "0x58D97B57BB95320F9a05dC918Aef65434969c2B2",
+    "symbol": "MORPHO",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x58D97B57BB95320F9a05dC918Aef65434969c2B2.png",
+    "website": "https://morpho.org",
+    "twitter": "https://x.com/MorphoLabs"
+  },
+  {
+    "name": "Bold Stablecoin",
+    "address": "0xb01dd87B29d187F3E3a4Bf6cdAebfb97F3D9aB98",
+    "symbol": "BOLD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xb01dd87B29d187F3E3a4Bf6cdAebfb97F3D9aB98.png",
+    "website": "https://www.liquity.org",
+    "twitter": "https://x.com/LiquityProtocol"
   }
 ]

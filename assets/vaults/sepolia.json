@@ -16,14 +16,6 @@
     "protocol": "assets/protocols/gearbox.json"
   },
   {
-    "address": "0xefC82921b1c5811b5a083443399C661650d2C166",
-    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
-    "decimals": 18,
-    "name": "Gearbox WETH",
-    "symbol": "dWETH",
-    "protocol": "assets/protocols/gearbox.json"
-  },
-  {
     "address": "0x7226987e9A6E4F01497b5bAE816685812A885201",
     "asset": "0xB5f214A5a9a12705A2Bc0cA94ddad7f9f425c46b",
     "decimals": 18,
@@ -45,14 +37,6 @@
     "decimals": 8,
     "name": "Aave WBTC",
     "symbol": "aWBTC",
-    "protocol": "assets/protocols/aave.json"
-  },
-  {
-    "address": "0x11B6857CB282FE29FB37fDb2Bb239Cba7B3eb8ab",
-    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
-    "decimals": 18,
-    "name": "Aave WETH",
-    "symbol": "aWETH",
     "protocol": "assets/protocols/aave.json"
   },
   {
@@ -88,30 +72,6 @@
     "protocol": "assets/protocols/morpho.json"
   },
   {
-    "address": "0xDe0E71057a1FF098B430BC72Cef6e77F22AA96e3",
-    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
-    "decimals": 18,
-    "name": "Morpho WETH Core",
-    "symbol": "GTWETHCORE",
-    "protocol": "assets/protocols/morpho.json"
-  },
-  {
-    "address": "0xA192F694B169af60FCA30A08D677B6d3e71F8936",
-    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
-    "decimals": 18,
-    "name": "Morpho Re7 WETH",
-    "symbol": "RE7WETH",
-    "protocol": "assets/protocols/morpho.json"
-  },
-  {
-    "address": "0x309126E12Dc3a5bCfDbc66c6e0A2746f87Baff54",
-    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
-    "decimals": 18,
-    "name": "Turbo stETH",
-    "symbol": "SOMM-stETH",
-    "protocol": "assets/protocols/sommelier.json"
-  },
-  {
     "address": "0xdF2A5c2854CF81d0d58a75a6F0C87b94f16EB76f",
     "asset": "0xDfBBF048075D9db3c34aB34a0843bC16De8c3B3D",
     "decimals": 8,
@@ -135,14 +95,6 @@
     "name": "Spark USDC",
     "symbol": "spUSDC",
     "protocol": "assets/protocols/spark.json"
-  },
-  {
-    "address": "0xc0f4Ce3e8A4A055CEe8eCD0770781441522F3a9A",
-    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
-    "decimals": 18,
-    "name": "Compound ETH",
-    "symbol": "cETH",
-    "protocol": "assets/protocols/compound.json"
   },
   {
     "address": "0x0B35fFC0A27f48B8604355E5c140F3211cc06B1B",
@@ -170,14 +122,6 @@
     "protocol": "assets/protocols/fraxlend.json"
   },
   {
-    "address": "0xfceedc635CeCb7DF16345095d1119fA98a1da8d2",
-    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
-    "decimals": 18,
-    "name": "Beefy Silo WETH",
-    "symbol": "mooSiloWETH",
-    "protocol": "assets/protocols/beefy.json"
-  },
-  {
     "address": "0x7C857F9CeC5C2C56325D3c3528C402a406C2679f",
     "asset": "0x67a53a2b9984AF64A2e27b1582bC72406a2317c3",
     "decimals": 6,
@@ -200,14 +144,6 @@
     "name": "Wrapped Origin Ether",
     "symbol": "wOETH",
     "protocol": "assets/protocols/origin.json"
-  },
-  {
-    "address": "0xa3993F60F716B8E5cA8865D4108c91D759320d60",
-    "asset": "0x1ef5F52BdBe11Af2377C58ecC914A8c72Ea807cF",
-    "decimals": 18,
-    "name": "Sturdy WETH",
-    "symbol": "sturdy-WETH",
-    "protocol": "assets/protocols/sturdy.json"
   },
   {
     "address": "0x444B1EE1336a10fF05fE3c465DC5599bdDd1af87",

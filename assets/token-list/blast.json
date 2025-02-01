@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Ether",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x0000000000000000000000000000000000000000.svg",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(98, 126, 234)"
+  },
+  {
+    "name": "Wrapped Ether",
+    "address": "0x4300000000000000000000000000000000000004",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2.png",
+    "website": "https://ethereum.org",
+    "twitter": "https://twitter.com/ethereum",
+    "color": "rgb(241, 244, 247)"
+  },
+  {
+    "name": "USDB",
+    "address": "0x4300000000000000000000000000000000000003",
+    "symbol": "USDB",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/blast/0x4300000000000000000000000000000000000003.png"
+  },
+  {
+    "name": "Blast",
+    "address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "symbol": "BLAST",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/blast/0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad.png"
+  }
+]
