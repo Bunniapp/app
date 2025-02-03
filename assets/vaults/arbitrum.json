@@ -11,6 +11,14 @@
     "address": "0x1c0aca7cEc87Ce862638BC0DD8D8fa874d8Ad95F",
     "asset": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
     "decimals": 6,
+    "name": "Aave v3 USDC.e",
+    "symbol": "waUSDC",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x85870b56E2C96e444ab29DEC3A7c13f1F05c2B01",
+    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+    "decimals": 6,
     "name": "Aave v3 USDC",
     "symbol": "waUSDC",
     "protocol": "assets/protocols/aave.json"
