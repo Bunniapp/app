@@ -140,5 +140,15 @@
     "website": "https://usdx.money",
     "twitter": "https://x.com/usdx_money",
     "color": "rgb(31, 122, 86)"
+  },
+  {
+    "name": "Curve.Fi USD Stablecoin",
+    "address": "0x498Bf2B1e120FeD3ad3D42EA2165E9b73f99C1e5",
+    "symbol": "crvUSD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E.png",
+    "website": "https://curve.fi",
+    "twitter": "https://x.com/curvefinance",
+    "color": "rgb(62, 125, 69)"
   }
 ]
