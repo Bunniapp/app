@@ -260,5 +260,15 @@
     "symbol": "SANWCH",
     "decimals": 18,
     "logoURI": "assets/img/tokens/base/0xe56b9f83a7cbe491f248490264066552d8a47e58.png"
+  },
+  {
+    "name": "Bunni",
+    "address": "0x000000C396558ffbAB5Ea628f39658Bdf61345b3",
+    "symbol": "BUNNI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bunni.png",
+    "website": "https://bunni.xyz",
+    "twitter": "https://x.com/bunni_xyz",
+    "color": "rgb(99, 102, 241)"
   }
 ]

@@ -150,5 +150,15 @@
     "website": "https://curve.fi",
     "twitter": "https://x.com/curvefinance",
     "color": "rgb(62, 125, 69)"
+  },
+  {
+    "name": "Bunni",
+    "address": "0x000000C396558ffbAB5Ea628f39658Bdf61345b3",
+    "symbol": "BUNNI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bunni.png",
+    "website": "https://bunni.xyz",
+    "twitter": "https://x.com/bunni_xyz",
+    "color": "rgb(99, 102, 241)"
   }
 ]
