@@ -1,0 +1,12 @@
+{
+  "name": "Bunni v2",
+  "short_name": "Bunni",
+  "description": "Next-gen DEX built on Uniswap v4",
+  "icons": [
+    {
+      "src": "./assets/img/bunni-200x200.svg",
+      "sizes": "200x200",
+      "type": "image/svg+xml"
+    }
+  ]
+}
