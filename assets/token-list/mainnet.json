@@ -584,5 +584,15 @@
     "logoURI": "assets/img/tokens/mainnet/0xb01dd87B29d187F3E3a4Bf6cdAebfb97F3D9aB98.png",
     "website": "https://www.liquity.org",
     "twitter": "https://x.com/LiquityProtocol"
+  },
+  {
+    "name": "Resolv USD",
+    "address": "0x66a1e37c9b0eaddca17d3662d6c05f4decf3e110",
+    "symbol": "USR",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110.svg",
+    "website": "https://resolv.xyz",
+    "twitter": "https://x.com/ResolvLabs",
+    "color": "rgb(55, 118, 154)"
   }
 ]

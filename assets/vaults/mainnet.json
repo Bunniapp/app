@@ -1022,5 +1022,21 @@
     "name": "Aave v3 wstETH (Prime Instance)",
     "symbol": "wawstETH",
     "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x3A8992754E2EF51D8F90620d2766278af5C59b90",
+    "asset": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+    "decimals": 18,
+    "name": "Resolv USR",
+    "symbol": "eUSR-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x3b028b4b6c567eF5f8Ca1144Da4FbaA0D973F228",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 6,
+    "name": "Tupila Resolv USDC",
+    "symbol": "eUSDC-25",
+    "protocol": "assets/protocols/euler.json"
   }
 ]
