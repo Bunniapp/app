@@ -288,6 +288,26 @@
     "color": "rgb(245, 198, 159)"
   },
   {
+    "address": "0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9",
+    "name": "Alchemix USD",
+    "symbol": "alUSD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xBC6DA0FE9aD5f3b0d58160288917AA56653660E9.svg",
+    "website": "https://alchemix.fi",
+    "twitter": "https://twitter.com/AlchemixFi",
+    "color": "rgb(245, 198, 159)"
+  },
+  {
+    "address": "0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6",
+    "name": "Alchemix ETH",
+    "symbol": "alETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x0100546F2cD4C9D97f798fFC9755E47865FF7Ee6.svg",
+    "website": "https://alchemix.fi",
+    "twitter": "https://twitter.com/AlchemixFi",
+    "color": "rgb(245, 198, 159)"
+  },
+  {
     "address": "0xc55126051B22eBb829D00368f4B12Bde432de5Da",
     "name": "BTRFLY",
     "symbol": "BTRFLY",
