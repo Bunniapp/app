@@ -280,5 +280,15 @@
     "website": "https://www.betswirl.com",
     "twitter": "https://x.com/BetSwirl",
     "color": "rgb(30, 92, 180)"
+  },
+  {
+    "name": "Based Froc",
+    "address": "0x3c8cd0db9a01efa063a7760267b822a129bc7dca",
+    "symbol": "FROC",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/base/0x3c8cd0db9a01efa063a7760267b822a129bc7dca.webp",
+    "website": "https://warpcast.com/~/conversations/0xe27a157ff7a71e6d3c1f82b5d0bf23727160ca3d",
+    "twitter": "x.com/basedfroc",
+    "color": "rgb(2, 84, 255)"
   }
 ]
