@@ -1035,7 +1035,7 @@
     "address": "0x3b028b4b6c567eF5f8Ca1144Da4FbaA0D973F228",
     "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
     "decimals": 6,
-    "name": "Tupila Resolv USDC",
+    "name": "Tulipa Resolv USDC",
     "symbol": "eUSDC-25",
     "protocol": "assets/protocols/euler.json"
   }
