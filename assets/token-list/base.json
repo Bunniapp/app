@@ -290,5 +290,15 @@
     "website": "https://warpcast.com/~/conversations/0xe27a157ff7a71e6d3c1f82b5d0bf23727160ca3d",
     "twitter": "x.com/basedfroc",
     "color": "rgb(2, 84, 255)"
+  },
+  {
+    "name": "Kaito",
+    "address": "0x98d0baa52b2d063e780de12f615f963fe8537553",
+    "symbol": "KAITO",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/base/0x98d0baa52b2d063e780de12f615f963fe8537553.jpg",
+    "website": "https://yaps.kaito.ai/",
+    "twitter": "https://twitter.com/kaitoai",
+    "color": "rgb(50, 252, 220)"
   }
 ]
