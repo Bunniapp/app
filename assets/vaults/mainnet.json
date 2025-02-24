@@ -696,30 +696,6 @@
     "protocol": "assets/protocols/sommelier.json"
   },
   {
-    "address": "0x312CEf8839eDa74DeA9b1EEc10b345071cA3d6da",
-    "asset": "0xB1F1ee126e9c96231Cc3d3fAD7C08b4cf873b1f1",
-    "decimals": 18,
-    "name": "WMoo BIFI",
-    "symbol": "wmooBIFI",
-    "protocol": "assets/protocols/beefy.json"
-  },
-  {
-    "address": "0x3CD57d49Aa87c3F7304412ecCD6eb79E25a31092",
-    "asset": "0xf939E0A03FB07F59A73314E73794Be0E57ac1b4E",
-    "decimals": 18,
-    "name": "WMoo Silo crvUSD",
-    "symbol": "wmooSilocrvUSD",
-    "protocol": "assets/protocols/beefy.json"
-  },
-  {
-    "address": "0xb5C6F5d1527F4147b25E046CD497b0D482B0b3Fa",
-    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
-    "decimals": 18,
-    "name": "WMoo Silo WETH (weETH Market)",
-    "symbol": "wmooSiloWETH",
-    "protocol": "assets/protocols/beefy.json"
-  },
-  {
     "address": "0xDcEe70654261AF21C44c093C300eD3Bb97b78192",
     "asset": "0x856c4Efb76C1D1AE02e20CEB03A2A6a08b0b8dC3",
     "decimals": 18,

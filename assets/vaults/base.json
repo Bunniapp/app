@@ -350,13 +350,5 @@
     "name": "Ionic Wrapped Ether Vault",
     "symbol": "ivWETH",
     "protocol": "assets/protocols/ionic.json"
-  },
-  {
-    "address": "0xD75cCF9890d8Fdfcccc9adF94bEBb10D2DCbf5f5",
-    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
-    "decimals": 6,
-    "name": "WMoo Compound Base USDC",
-    "symbol": "wmooCompoundBaseUSDC",
-    "protocol": "assets/protocols/beefy.json"
   }
 ]
