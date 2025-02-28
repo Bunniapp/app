@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Resolv Points",
+        "img": "assets/img/vaults/mainnet/resolv.svg",
+        "website": "https://app.resolv.xyz/points",
+        "shortDescription": "30x",
+        "longDescription": " Depositors earn 30x Resolv points",
+        "pools": {
+            "1": [
+                "0x77f73405a72f844e46d26a0bfd6f145c1a45ffcf6e4af5c86811405f29d2e615"
+            ]
+        }
+    }
+]
