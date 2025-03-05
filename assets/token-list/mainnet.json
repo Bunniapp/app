@@ -579,6 +579,16 @@
     "color": "rgb(99, 102, 241)"
   },
   {
+    "name": "Bunni Call Option Bunni",
+    "address": "0x000000Dc51B82DC9C14c2c034341c912907d0d59",
+    "symbol": "oBUNNI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bunni.png",
+    "website": "https://bunni.xyz",
+    "twitter": "https://x.com/bunni_xyz",
+    "color": "rgb(99, 102, 241)"
+  },
+  {
     "name": "Lombard Staked Bitcoin",
     "address": "0x8236a87084f8B84306f72007F36F2618A5634494",
     "symbol": "LBTC",

@@ -272,6 +272,16 @@
     "color": "rgb(99, 102, 241)"
   },
   {
+    "name": "Bunni Call Option Bunni",
+    "address": "0x000000Dc51B82DC9C14c2c034341c912907d0d59",
+    "symbol": "oBUNNI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bunni.png",
+    "website": "https://bunni.xyz",
+    "twitter": "https://x.com/bunni_xyz",
+    "color": "rgb(99, 102, 241)"
+  },
+  {
     "name": "BetSwirl v2",
     "address": "0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5",
     "symbol": "BETS",
