@@ -656,6 +656,22 @@
     "protocol": "assets/protocols/morpho.json"
   },
   {
+    "address": "0x1E2aAaDcF528b9cC08F43d4fd7db488cE89F5741",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 18,
+    "name": "9S Mount Denali USDC Core",
+    "symbol": "9SUSDC11Core",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x00B6f2C15E4439749f192D10c70f65354848Cf4b",
+    "asset": "0x66a1E37c9b0eAddca17d3662D6c05F4DECf3e110",
+    "decimals": 18,
+    "name": "9S Mount Kosciuszko USR",
+    "symbol": "9SUSR",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
     "address": "0xfd6db5011b171B05E1Ea3b92f9EAcaEEb055e971",
     "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
     "decimals": 18,
