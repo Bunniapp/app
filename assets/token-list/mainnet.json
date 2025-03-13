@@ -634,5 +634,23 @@
     "website": "https://www.betswirl.com",
     "twitter": "https://x.com/BetSwirl",
     "color": "rgb(30, 92, 180)"
+  },
+  {
+    "name": "Usual USD",
+    "address": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5",
+    "symbol": "USD0",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5.svg",
+    "website": "https://usual.money",
+    "twitter": "https://x.com/usualmoney"
+  },
+  {
+    "name": "USD0 Liquid Bond",
+    "address": "0x35d8949372d46b7a3d5a56006ae77b215fc69bc0",
+    "symbol": "USD0++",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x35d8949372d46b7a3d5a56006ae77b215fc69bc0.svg",
+    "website": "https://usual.money",
+    "twitter": "https://x.com/usualmoney"
   }
 ]
