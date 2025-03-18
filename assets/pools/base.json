@@ -2,5 +2,9 @@
   {
     "id": "0x66fa569c8aa30894818043ff5e90656d8568208ee73c55cc812bdbb0b475fb71",
     "name": "WETH-USDC 1.0"
+  },
+  {
+    "id": "0x92ad1a9b45a77f64736356a945c3129378657b7dbb8009a6bae713f825baf943",
+    "name": "Flagship ETH-USDC 1.2"
   }
 ]
