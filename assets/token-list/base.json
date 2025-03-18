@@ -310,5 +310,16 @@
     "website": "https://yaps.kaito.ai/",
     "twitter": "https://twitter.com/kaitoai",
     "color": "rgb(50, 252, 220)"
+  },
+  {
+    "name": "Tether USD",
+    "address": "0xfde4c96c8593536e31f229ea8f37b2ada2699bb2",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/mainnet/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg",
+    "website": "https://tether.to",
+    "twitter": "https://twitter.com/Tether_to",
+    "color": "rgb(39, 161, 122)",
+    "customABI": "USDT"
   }
 ]
