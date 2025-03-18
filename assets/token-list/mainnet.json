@@ -278,6 +278,15 @@
     "twitter": "https://twitter.com/fraxfinance"
   },
   {
+    "address": "0xcacd6fd266af91b8aed52accc382b4e165586e29",
+    "name": "Frax USD",
+    "symbol": "frxUSD",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xcacd6fd266af91b8aed52accc382b4e165586e29.webp",
+    "website": "https://frax.finance",
+    "twitter": "https://twitter.com/fraxfinance"
+  },
+  {
     "address": "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF",
     "name": "Alchemix",
     "symbol": "ALCX",
