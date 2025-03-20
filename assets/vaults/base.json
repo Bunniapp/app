@@ -350,5 +350,13 @@
     "name": "Ionic Wrapped Ether Vault",
     "symbol": "ivWETH",
     "protocol": "assets/protocols/ionic.json"
+  },
+  {
+    "address": "0x45aa96f0b3188D47a1DaFdbefCE1db6B37f58216",
+    "asset": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "decimals": 8,
+    "name": "IPOR USDC Lending Optimizer Base",
+    "symbol": "ipUSDCfusion",
+    "protocol": "assets/protocols/ipor.json"
   }
 ]

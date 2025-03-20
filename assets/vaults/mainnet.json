@@ -1030,5 +1030,29 @@
     "name": "Tulipa Resolv USDC",
     "symbol": "eUSDC-25",
     "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x43Ee0243eA8CF02f7087d8B16C8D2007CC9c7cA2",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 8,
+    "name": "IPOR USDC Ethereum Optimizer",
+    "symbol": "ipUSDCfusion",
+    "protocol": "assets/protocols/ipor.json"
+  },
+  {
+    "address": "0xAbAb980f0eCB232D52f422C6B68D25C3d0c18E3e",
+    "asset": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "decimals": 8,
+    "name": "IPOR USDT Ethereum Optimizer",
+    "symbol": "ipUSDTfusion",
+    "protocol": "assets/protocols/ipor.json"
+  },
+  {
+    "address": "0x20e934c725b6703f0ac696f1689008057db9ac44",
+    "asset": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "decimals": 20,
+    "name": "IPOR DAI Ethereum Optimizer",
+    "symbol": "ipDAIfusion",
+    "protocol": "assets/protocols/ipor.json"
   }
 ]
