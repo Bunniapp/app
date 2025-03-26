@@ -661,5 +661,14 @@
     "logoURI": "assets/img/tokens/mainnet/0x35d8949372d46b7a3d5a56006ae77b215fc69bc0.svg",
     "website": "https://usual.money",
     "twitter": "https://x.com/usualmoney"
+  },
+  {
+    "name": "Noon USN",
+    "address": "0xda67b4284609d2d48e5d10cfac411572727dc1ed",
+    "symbol": "USN",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xda67b4284609d2d48e5d10cfac411572727dc1ed.png",
+    "website": "https://www.noon.capital/",
+    "twitter": "https://x.com/noon_capital"
   }
 ]
