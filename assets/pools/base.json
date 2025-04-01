@@ -5,6 +5,14 @@
   },
   {
     "id": "0x92ad1a9b45a77f64736356a945c3129378657b7dbb8009a6bae713f825baf943",
-    "name": "Flagship ETH-USDC 1.2"
+    "name": "Experiment A: ETH-USDC"
+  },
+  {
+    "id": "0x01c0cda2938d0c4da14ee3c377d2b6e5eb19c178add178e8261a0478259ef411",
+    "name": "Experiment B: ETH-USDC"
+  },
+  {
+    "id": "0x1dc0be6642905b4655d3a802dacadc462c9f2db685b766649c41580e27d1e08a",
+    "name": "Experiment C: ETH-USDC"
   }
 ]
