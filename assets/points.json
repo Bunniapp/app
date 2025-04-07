@@ -8,7 +8,8 @@
         "pools": {
             "1": [
                 "0x77f73405a72f844e46d26a0bfd6f145c1a45ffcf6e4af5c86811405f29d2e615",
-                "0xdd0c5e7f3b4c292e74f26d74ce9eb6f90b63af139f2166f6d3ea8b560cf1f0ac"
+                "0xdd0c5e7f3b4c292e74f26d74ce9eb6f90b63af139f2166f6d3ea8b560cf1f0ac",
+                "0x413535983fcfe0f1a036d497cd402bfdbc24661bf46d048e7df24e97c3e99008"
             ]
         }
     }
