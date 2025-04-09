@@ -670,5 +670,15 @@
     "logoURI": "assets/img/tokens/mainnet/0xda67b4284609d2d48e5d10cfac411572727dc1ed.png",
     "website": "https://www.noon.capital/",
     "twitter": "https://x.com/noon_capital"
+  },
+  {
+    "name": "ynETH MAX",
+    "address": "0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb",
+    "symbol": "ynETHx",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb.svg",
+    "website": "https://www.yieldnest.finance",
+    "twitter": "https://x.com/YieldNestFi",
+    "color": "rgb(232, 199, 135)"
   }
 ]

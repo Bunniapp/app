@@ -14,5 +14,9 @@
   {
     "id": "0x1dc0be6642905b4655d3a802dacadc462c9f2db685b766649c41580e27d1e08a",
     "name": "Experiment C: ETH-USDC"
+  },
+  {
+    "id": "0x6a74303037cc9ac335af4b2c8507d7140209ebfa3caab324cc11241f71f9ac8a",
+    "name": "Experiment E: ETH-USDC"
   }
 ]
