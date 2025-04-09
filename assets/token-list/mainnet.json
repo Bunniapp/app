@@ -532,6 +532,16 @@
     "color": "rgb(232, 199, 135)"
   },
   {
+    "name": "ynETH MAX",
+    "address": "0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb",
+    "symbol": "ynETHx",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb.svg",
+    "website": "https://www.yieldnest.finance",
+    "twitter": "https://x.com/YieldNestFi",
+    "color": "rgb(232, 199, 135)"
+  },
+  {
     "name": "Renzo Restaked ETH",
     "address": "0xbf5495Efe5DB9ce00f80364C8B423567e58d2110",
     "symbol": "ezETH",
