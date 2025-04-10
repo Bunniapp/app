@@ -23,7 +23,7 @@
     "name": "Tether USD",
     "address": "0x55d398326f99059fF775485246999027B3197955",
     "symbol": "USDT",
-    "decimals": 6,
+    "decimals": 18,
     "logoURI": "assets/img/tokens/mainnet/0xdAC17F958D2ee523a2206206994597C13D831ec7.svg",
     "website": "https://tether.to",
     "twitter": "https://twitter.com/Tether_to",
@@ -34,7 +34,7 @@
     "name": "USD Coin",
     "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
     "symbol": "USDC",
-    "decimals": 6,
+    "decimals": 18,
     "logoURI": "assets/img/tokens/mainnet/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png",
     "website": "https://www.circle.com",
     "twitter": "https://twitter.com/circle",
@@ -49,5 +49,33 @@
     "website": "https://ethereum.org",
     "twitter": "https://twitter.com/ethereum",
     "color": "rgb(241, 244, 247)"
+  },
+  {
+    "address": "0x26c5e01524d2e6280a48f2c50ff6de7e52e9611c",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0.png",
+    "website": "https://lido.fi",
+    "twitter": "https://twitter.com/LidoFinance",
+    "color": "rgb(3, 163, 255)"
+  },
+  {
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "name": "PancakeSwap Token",
+    "symbol": "CAKE",
+    "decimals": 18
+  },
+  {
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "name": "PancakeSwap Token",
+    "symbol": "CAKE",
+    "decimals": 18
+  },
+  {
+    "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "name": "Binance-Peg BTCB Token",
+    "symbol": "BTCB",
+    "decimals": 18
   }
 ]

@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "address": "0xC8FAfBf9B1598a52f77293835e4407442f07710a",
+    "asset": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "decimals": 18,
+    "name": "Aave v3 WBNB",
+    "symbol": "waBNB",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x5e17603a8ba3A0D2b636A07e441d9ee3F0a428cb",
+    "asset": "0x55d398326f99059ff775485246999027b3197955",
+    "decimals": 18,
+    "name": "Aave v3 USDT",
+    "symbol": "waUSDT",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x0380Fe579e44023eB12b6DC029460cD83B51c58b",
+    "asset": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "decimals": 18,
+    "name": "Aave v3 USDC",
+    "symbol": "waUSDC",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0x82d8F1d33E7925Ce6B33F2196CFCB1ffA4f268c2",
+    "asset": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "decimals": 18,
+    "name": "Aave v3 ETH",
+    "symbol": "waETH",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xe0A901E4C944C6A03C0c9602EcD2e65384088a7f",
+    "asset": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "decimals": 18,
+    "name": "Aave v3 BTCB",
+    "symbol": "waBTCB",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xC7e908B9b0c6Fa671F1734FA287454fC3B0eE158",
+    "asset": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "decimals": 18,
+    "name": "Aave v3 CAKE",
+    "symbol": "waCAKE",
+    "protocol": "assets/protocols/aave.json"
+  },
+  {
+    "address": "0xCd801842Caf80CbbeDcEbed4a8cD4008c952d758",
+    "asset": "0x26c5e01524d2e6280a48f2c50ff6de7e52e9611c",
+    "decimals": 18,
+    "name": "Aave v3 wstETH",
+    "symbol": "wawstETH",
+    "protocol": "assets/protocols/aave.json"
+  }
+]
