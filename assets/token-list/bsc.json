@@ -77,5 +77,25 @@
     "name": "Binance-Peg BTCB Token",
     "symbol": "BTCB",
     "decimals": 18
+  },
+  {
+    "name": "Bunni",
+    "address": "0x000000C396558ffbAB5Ea628f39658Bdf61345b3",
+    "symbol": "BUNNI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bunni.png",
+    "website": "https://bunni.xyz",
+    "twitter": "https://x.com/bunni_xyz",
+    "color": "rgb(99, 102, 241)"
+  },
+  {
+    "name": "Bunni Call Option Token",
+    "address": "0x000000Dc51B82DC9C14c2c034341c912907d0d59",
+    "symbol": "oBUNNI",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/bunni.png",
+    "website": "https://bunni.xyz",
+    "twitter": "https://x.com/bunni_xyz",
+    "color": "rgb(99, 102, 241)"
   }
 ]
