@@ -1054,5 +1054,21 @@
     "name": "IPOR DAI Ethereum Optimizer",
     "symbol": "ipDAIfusion",
     "protocol": "assets/protocols/ipor.json"
+  },
+  {
+    "address": "0x45c3B59d53e2e148Aaa6a857521059676D5c0489",
+    "asset": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+    "decimals": 18,
+    "name": "Alterscope LRT YieldNest WETH",
+    "symbol": "eWETH-22",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x6d18F74AAD8494B789aE34b5455816F79664d209",
+    "asset": "0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb",
+    "decimals": 18,
+    "name": "Alterscope LRT ynETHx",
+    "symbol": "eynETHx-2",
+    "protocol": "assets/protocols/euler.json"
   }
 ]
