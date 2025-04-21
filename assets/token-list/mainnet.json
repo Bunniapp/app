@@ -672,6 +672,15 @@
     "twitter": "https://x.com/noon_capital"
   },
   {
+    "name": "Staked USN",
+    "address": "0xe24a3dc889621612422a64e6388927901608b91d",
+    "symbol": "sUSN",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xe24a3dc889621612422a64e6388927901608b91d.png",
+    "website": "https://www.noon.capital/",
+    "twitter": "https://x.com/noon_capital"
+  },
+  {
     "name": "ynETH MAX",
     "address": "0x657d9ABA1DBb59e53f9F3eCAA878447dCfC96dCb",
     "symbol": "ynETHx",
