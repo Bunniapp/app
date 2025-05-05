@@ -321,5 +321,16 @@
     "twitter": "https://twitter.com/Tether_to",
     "color": "rgb(39, 161, 122)",
     "customABI": "USDT"
+  },
+  {
+    "name": "aixbt by Virtuals",
+    "address": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+    "symbol": "AIXBT",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/base/0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825.png",
+    "website": "https://app.virtuals.io/virtuals/1199",
+    "twitter": "https://x.com/virtuals_io",
+    "color": "rgb(174, 120, 245)"
   }
+  
 ]
