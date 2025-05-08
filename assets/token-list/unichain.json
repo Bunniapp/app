@@ -51,6 +51,16 @@
     "customABI": "USDT"
   },
   {
+    "name": "USD₮0",
+    "address": "0x9151434b16b9763660705744891fa906f660ecc5",
+    "symbol": "USD₮0",
+    "decimals": 6,
+    "logoURI": "assets/img/tokens/unichain/0x9151434b16b9763660705744891fa906f660ecc5.png",
+    "website": "https://usdt0.to",
+    "twitter": "https://x.com/USDT0_to",
+    "color": "rgb(0, 185, 137)"
+  },
+  {
     "name": "USD Coin",
     "address": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
     "symbol": "USDC",
