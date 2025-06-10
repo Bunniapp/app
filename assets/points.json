@@ -20,7 +20,7 @@
         "website": "https://docs.falcon.finance/resources/terms-of-use#id-10.-falcon-points",
         "shortDescription": "35x",
         "longDescription": "Earn 35x Falcon Points for each dollar of liquidity",
-        "enabled": true,
+        "enabled": false,
         "pools": {
             "1": [
                 "0x68306351b1155f7329bc4428657aa73b8a32e87e916f897b7dcb1328f2ec60a3"
