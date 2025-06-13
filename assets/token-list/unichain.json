@@ -116,5 +116,13 @@
     "logoURI": "assets/img/tokens/mainnet/0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7.png",
     "website": "https://kelpdao.xyz/restake",
     "twitter": "https://x.com/KelpDAO"
+  },
+  {
+    "name": "sUSDC",
+    "address": "0x14d9143BEcC348920b68D123687045db49a016C6",
+    "symbol": "Spark USDC Vault",
+    "decimals": 18,
+    "logoURI": "assets/img/tokens/mainnet/0xA1290d69c65A6Fe4DF752f95823fae25cB99e5A7.png",
+    "website": "https://app.spark.fi/"
   }
 ]

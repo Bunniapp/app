@@ -62,5 +62,157 @@
     "name": "Euler Unichain rsETH",
     "symbol": "ersETH-1",
     "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x7650D7ae1981f2189d352b0EC743b9099D24086F",
+    "asset": "0x14d9143BEcC348920b68D123687045db49a016C6",
+    "decimals": 18,
+    "name": "Euler Unichain sUSDC",
+    "symbol": "esUSDC-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x5d2511C1EBc795F4394f7f659f693f8C15796485",
+    "asset": "0x927B51f251480a681271180DA4de28D44EC4AfB8",
+    "decimals": 8,
+    "name": "Euler Unichain WBTC",
+    "symbol": "esWBTC-1",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x6Bc1f97f96Dd6834A86aCf412B77C9F464419436",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "Euler Unichain LST WETH",
+    "symbol": "eWETH-2",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0xCF28A176021e6906C359d1777041245d9Fda076D",
+    "asset": "0xc02fE7317D4eb8753a02c35fe019786854A92001",
+    "decimals": 18,
+    "name": "Euler Unichain LST wstETH",
+    "symbol": "ewstETH-2",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x25e2ef0f957B61cdd26BBE954AFD5806A9DaDe49",
+    "asset": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "decimals": 18,
+    "name": "Euler Unichain LST ezETH",
+    "symbol": "eezETH-2",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0xe6806beA4eCDE065bB757c35032f2c625848D8e8",
+    "asset": "0xc3eACf0612346366Db554C991D7858716db09f58",
+    "decimals": 18,
+    "name": "Euler Unichain LST rsETH",
+    "symbol": "ersETH-2",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0xfA355999c12C63c465c591daf9C462e14ACf470b",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "K3 Capital ETH Maxi",
+    "symbol": "K3WETH",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x830898200F0E8Be8Dc1C9A836f4AB29ECEdf76eb",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "Gauntlet WETH",
+    "symbol": "gtwethc",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x6af5E46456A8ac80BB53a02799965DEF99c26e52",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "Re7 WETH",
+    "symbol": "Re7WETH",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x4C91d8FBb468F2A318A16C95a9AE17dAe20d8328",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "9S Puncak Jaya ETH",
+    "symbol": "9sETH",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x3f93576d13091bfBF6825F7421eF33cC353dC433",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "MEV Capital wETH",
+    "symbol": "MC_wETH",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x0993Ae24a988c6925d80aD61344a76B81aA0D34c",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "Steakhouse ETH",
+    "symbol": "steakETH",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x38f4f3B6533de0023b9DCd04b02F93d36ad1F9f9",
+    "asset": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+    "decimals": 18,
+    "name": "Gauntlet USDC",
+    "symbol": "gtusdcc",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0xc063181747E56c034ac14dC82DB663409566Fdf6",
+    "asset": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+    "decimals": 18,
+    "name": "MEV Capital USDC",
+    "symbol": "MC_USDC",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0xa48f8A10F16bB50A588606553D9fE7338050f8Cd",
+    "asset": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+    "decimals": 18,
+    "name": "Re7 USDC",
+    "symbol": "Re7USDC",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0xCfecBf93dEc86316F106712767828ACB5065C441",
+    "asset": "0x078D782b760474a361dDA0AF3839290b0EF57AD6",
+    "decimals": 18,
+    "name": "K3 Capital Core Market",
+    "symbol": "K3USDC",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x2c0F7e917257926BA6233B20DE19d7fe3210858C",
+    "asset": "0x9151434b16b9763660705744891fA906F660EcC5",
+    "decimals": 18,
+    "name": "Re7 USD₮0",
+    "symbol": "Re7USDT",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x89849B6e57e1c61e447257242bDa97c70FA99b6b",
+    "asset": "0x9151434b16b9763660705744891fA906F660EcC5",
+    "decimals": 18,
+    "name": "Gauntlet USD₮0",
+    "symbol": "gtusdt0c",
+    "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x9E111aCef0CF3bd8C38715B88e78BE31C1109F8a",
+    "asset": "0xc02fE7317D4eb8753a02c35fe019786854A92001",
+    "decimals": 18,
+    "name": "Smokehouse wstETH",
+    "symbol": "bbqWSTETH",
+    "protocol": "assets/protocols/morpho.json"
   }
 ]
