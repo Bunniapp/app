@@ -97,5 +97,17 @@
     "website": "https://bunni.xyz",
     "twitter": "https://x.com/bunni_xyz",
     "color": "rgb(99, 102, 241)"
+  },
+  {
+    "name": "Polkadot Token (Relay Chain)",
+    "address": "0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
+    "symbol": "DOT",
+    "decimals": 18
+  },
+  {
+    "name": "Bifrost Voucher DOT",
+    "address": "0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
+    "symbol": "vDOT",
+    "decimals": 18
   }
 ]

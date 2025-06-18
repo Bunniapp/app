@@ -331,6 +331,17 @@
     "website": "https://app.virtuals.io/virtuals/1199",
     "twitter": "https://x.com/virtuals_io",
     "color": "rgb(174, 120, 245)"
+  },
+  {
+    "name": "Polkadot Token (Relay Chain)",
+    "address": "0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
+    "symbol": "DOT",
+    "decimals": 18
+  },
+  {
+    "name": "Bifrost Voucher DOT",
+    "address": "0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
+    "symbol": "vDOT",
+    "decimals": 18
   }
-  
 ]

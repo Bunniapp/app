@@ -705,5 +705,17 @@
     "symbol": "PRL",
     "decimals": 18,
     "logoURI": "assets/img/tokens/mainnet/0x6c0aeceeDc55c9d55d8B99216a670D85330941c3.png"
+  },
+  {
+    "name": "Polkadot Token (Relay Chain)",
+    "address": "0x8d010bf9C26881788b4e6bf5Fd1bdC358c8F90b8",
+    "symbol": "DOT",
+    "decimals": 18
+  },
+  {
+    "name": "Bifrost Voucher DOT",
+    "address": "0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
+    "symbol": "vDOT",
+    "decimals": 18
   }
 ]
