@@ -18,8 +18,8 @@
         "name": "Falcon Points",
         "img": "assets/img/tokens/mainnet/Falcon_Token_Main_White_400x400.png",
         "website": "https://docs.falcon.finance/resources/terms-of-use#id-10.-falcon-points",
-        "shortDescription": "35x",
-        "longDescription": "Earn 35x Falcon Points for each dollar of liquidity",
+        "shortDescription": "40x",
+        "longDescription": "Earn 40x Falcon Points for each dollar of liquidity",
         "enabled": true,
         "pools": {
             "1": [
