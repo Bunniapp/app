@@ -106,7 +106,8 @@
     "decimals": 18,
     "logoURI": "assets/img/tokens/mainnet/0xbf5495Efe5DB9ce00f80364C8B423567e58d2110.png",
     "website": "https://www.renzoprotocol.com",
-    "twitter": "https://x.com/RenzoProtocol"
+    "twitter": "https://x.com/RenzoProtocol",
+    "color": "rgb(196, 255, 97)"
   },
   {
     "name": "rsETH",
