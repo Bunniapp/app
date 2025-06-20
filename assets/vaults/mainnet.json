@@ -1078,5 +1078,21 @@
     "name": "Staked Falcon USD",
     "symbol": "sUSDf",
     "protocol": "assets/protocols/falcon-finance.json"
+  },
+  {
+    "address": "0x53208e965EB66841598fB8f983a41936EeE6d774",
+    "asset": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+    "decimals": 6,
+    "name": "Noon USDC",
+    "symbol": "eUSDC-33",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0xc1fF5490651B9B8d0400B0146E7fb174B90E315B",
+    "asset": "0xdA67B4284609d2d48e5d10cfAc411572727dc1eD",
+    "decimals": 18,
+    "name": "Noon USN",
+    "symbol": "eUSN-1",
+    "protocol": "assets/protocols/euler.json"
   }
 ]
