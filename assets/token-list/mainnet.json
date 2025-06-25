@@ -652,7 +652,8 @@
     "decimals": 18,
     "logoURI": "assets/img/tokens/mainnet/0x94025780a1ab58868d9b2dbbb775f44b32e8e6e5.svg",
     "website": "https://usual.money",
-    "twitter": "https://x.com/usualmoney"
+    "twitter": "https://x.com/usualmoney",
+    "color": "rgb(0, 191, 68)"
   },
   {
     "name": "USD0 Liquid Bond",
