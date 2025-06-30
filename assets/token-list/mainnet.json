@@ -719,5 +719,11 @@
     "address": "0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
     "symbol": "vDOT",
     "decimals": 18
+  },
+  {
+    "name": "Metronone",
+    "address": "0x2Ebd53d035150f328bd754D6DC66B99B0eDB89aa",
+    "symbol": "MET",
+    "decimals": 18
   }
 ]
