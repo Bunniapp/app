@@ -5475,6 +5475,24 @@ ${this.value??""}</textarea
         latestSwap {
           fee
         }
+        latestRebalance {
+          timestamp
+          totalSupply
+          rawBalance0
+          rawBalance1
+          reserve0
+          reserve1
+          swapFeesCurrency0PerShare
+          swapFeesCurrency1PerShare
+          managerFeesCurrency0PerShare
+          managerFeesCurrency1PerShare
+          rentCurrency0PerShare
+          rentCurrency1PerShare
+          vaultYieldCurrency0PerShare
+          vaultYieldCurrency1PerShare
+          lastPricePerVaultShare0
+          lastPricePerVaultShare1
+        }
       }
     }
   `}(),e)})()}incentivesQuery(e){var i=this;return(0,hi.A)(function*(){return yield i.query(function qXe(){return C2`
