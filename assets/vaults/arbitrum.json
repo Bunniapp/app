@@ -144,22 +144,6 @@
     "protocol": "assets/protocols/gearbox.json"
   },
   {
-    "address": "0xC47bB288178Ea40bF520a91826a3DEE9e0DbFA4C",
-    "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-    "decimals": 18,
-    "name": "Real Yield ETH",
-    "symbol": "RYETH",
-    "protocol": "assets/protocols/sommelier.json"
-  },
-  {
-    "address": "0x392B1E6905bb8449d26af701Cdea6Ff47bF6e5A8",
-    "asset": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
-    "decimals": 6,
-    "name": "Real Yield USD",
-    "symbol": "RYUSD",
-    "protocol": "assets/protocols/sommelier.json"
-  },
-  {
     "address": "0xe1c410eefAeBB052E17E0cB6F1c3197F35765Aab",
     "asset": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
     "decimals": 18,
