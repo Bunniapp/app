@@ -1,19 +1,20 @@
 [
   {
     "name": "Bunni DAO",
+    "icon": "assets/img/bunni-200x200.svg",
+    "website": "https://bunni.xyz/",
+    "description": "Bunni is a DEX that maximizes liquidity provider profits in all market conditions. Built on Uniswap v4",
     "addresses": [
-      "0x1bfD64aB61EACf714B2Aa37347057203f3AcA71f",
-      "0xAfD5f60aA8eb4F488eAA0eF98c1C5B0645D9A0A0",
-      "0x5f350bF5feE8e254D6077f8661E9C7B83a30364e",
-      "0xe7Edf25702f5EE446f55Fe21c579F9018f3d5Bc4",
-      "0xfBe09B7A6C6cc3A72B4CA41cdD9c88AC62bb7937"
+      "0x9a8FEe232DCF73060Af348a1B62Cdb0a19852d13"
     ]
   },
   {
-    "name": "BetSwirl",
+    "name": "Usual DAO",
+    "icon": "assets/img/protocols/usual.svg",
+    "website": "https://usual.money/",
+    "description": "Usual is a decentralized protocol, embracing the shape of a decentralized banking system. It issues a fiat-backed stablecoin, collateralized by Real-World Assets (RWAs), combining the security of real assets with the composability and liquidity of DeFi",
     "addresses": [
-      "0xf14C79a7fA22c1f97C779F573c9bF39b6b43381c",
-      "0x2C305888a456E7004663bc12A74395E637eABCBc"
+      "0x81ad394C0Fa87e99Ca46E1aca093BEe020f203f4"
     ]
   }
 ]
