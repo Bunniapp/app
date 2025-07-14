@@ -192,5 +192,11 @@
     "address": "0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
     "symbol": "vDOT",
     "decimals": 18
+  },
+  {
+    "name": "US Nerite Dollar",
+    "address": "0x4ecf61a6c2FaB8A047CEB3B3B263B401763e9D49",
+    "symbol": "USND",
+    "decimals": 18
   }
 ]
