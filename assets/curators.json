@@ -16,5 +16,14 @@
     "addresses": [
       "0x81ad394C0Fa87e99Ca46E1aca093BEe020f203f4"
     ]
+  },
+  {
+    "name": "Nerite DAO",
+    "icon": "assets/img/protocols/nerite.svg",
+    "website": "https://docs.nerite.org/",
+    "description": "Nerite is a decentralized borrowing protocol that lets users deposit ETH, LSTs, and ARB as collateral, and mint the stablecoin USND at an interest rate depositors choose. Nerite is friendly fork based on Liquity v2",
+    "addresses": [
+      "0x95E9A0c113AA9931a4230f91AdE08A491D3f8d54"
+    ]
   }
 ]

@@ -737,5 +737,11 @@
     "address": "0xf3e621395fc714B90dA337AA9108771597b4E696",
     "symbol": "rEUL",
     "decimals": 18
+  },
+  {
+    "name": "hwHLP",
+    "address": "0x9FD7466f987Fd4C45a5BBDe22ED8aba5BC8D72d1",
+    "symbol": "hwHLP",
+    "decimals": 6
   }
 ]
