@@ -198,5 +198,11 @@
     "address": "0x4ecf61a6c2FaB8A047CEB3B3B263B401763e9D49",
     "symbol": "USND",
     "decimals": 18
+  },
+  {
+    "name": "BOLD Stablecoin",
+    "address": "0x03569CC076654F82679C4BA2124D64774781B01D",
+    "symbol": "BOLD",
+    "decimals": 18
   }
 ]
