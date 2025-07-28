@@ -131,5 +131,14 @@
     "address": "0x1b0e3Da51b2517E09aE74CD31b708e46B9158E8b",
     "symbol": "rEUL",
     "decimals": 18
+  },
+  {
+    "address": "0x94Cac393f3444cEf63a651FfC18497E7e8bd036a",
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "decimals": 18,
+    "website": "https://rocketpool.net",
+    "twitter": "https://twitter.com/Rocket_Pool",
+    "color": "rgb(255, 111, 48)"
   }
 ]

@@ -214,5 +214,21 @@
     "name": "Smokehouse wstETH",
     "symbol": "bbqWSTETH",
     "protocol": "assets/protocols/morpho.json"
+  },
+  {
+    "address": "0x5ADAde21c703912547BFc8952fe1B52f09437E2A",
+    "asset": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "AlphaGrowth Unichain Vaults WETH",
+    "symbol": "eWETH-4",
+    "protocol": "assets/protocols/euler.json"
+  },
+  {
+    "address": "0x218c9e961fC5f6c8280bA160365FAbe8A53Ec6E5",
+    "asset": "0x94Cac393f3444cEf63a651FfC18497E7e8bd036a",
+    "decimals": 18,
+    "name": "AlphaGrowth Unichain Vaults rETH",
+    "symbol": "erETH-1",
+    "protocol": "assets/protocols/euler.json"
   }
 ]
