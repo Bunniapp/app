@@ -25,5 +25,14 @@
     "addresses": [
       "0x95E9A0c113AA9931a4230f91AdE08A491D3f8d54"
     ]
+  },
+  {
+    "name": "AlphaGrowth",
+    "icon": "assets/img/protocols/alphagrowth.svg",
+    "website": "https://alphagrowth.io/",
+    "description": "DeFi Operations, Tokenomics, and BD for Crypto Projects, Protocols, and Chains.",
+    "addresses": [
+      "0x04805982aaa97e6632d1b73d0c004a6f0c02e2d9"
+    ]
   }
 ]
