@@ -665,6 +665,14 @@
     "twitter": "https://x.com/usualmoney"
   },
   {
+    "name": "Usual",
+    "address": "0xC4441c2BE5d8fA8126822B9929CA0b81Ea0DE38E",
+    "symbol": "Usual",
+    "decimals": 18,
+    "website": "https://usual.money",
+    "twitter": "https://x.com/usualmoney"
+  },
+  {
     "name": "Noon USN",
     "address": "0xda67b4284609d2d48e5d10cfac411572727dc1ed",
     "symbol": "USN",
