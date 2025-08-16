@@ -343,5 +343,12 @@
     "address": "0xBC33B4D48f76d17A1800aFcB730e8a6AAada7Fe5",
     "symbol": "vDOT",
     "decimals": 18
+  },
+  {
+    "name": "tBTC v2",
+    "address": "0x236aa50979d5f3de3bd1eeb40e81137f22ab794b",
+    "symbol": "tBTC",
+    "decimals": 18,
+    "color": "rgb(112, 1, 255)"
   }
 ]
